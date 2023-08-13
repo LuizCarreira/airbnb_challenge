@@ -1,0 +1,704 @@
+host_is_superhost,cancellation_policy,instant_bookable,host_total_listings_count,neighbourhood_cleansed,latitude,longitude,property_type,room_type,accommodates,bathrooms,bedrooms,beds,bed_type,minimum_nights,number_of_reviews,review_scores_rating,review_scores_accuracy,review_scores_cleanliness,review_scores_checkin,review_scores_communication,review_scores_location,review_scores_value,price,cluster
+f,strict_14_with_grace_period,f,10,Haight Ashbury,37.766690000000004,-12.24525,Apartment,Private room,2,4,1,1,Real Bed,32,17,85.0,8.0,8.0,9.0,9.0,9.0,8.0,65.0,0
+t,strict_14_with_grace_period,f,2,Potrero Hill,37.75645,-12.23991,Apartment,Private room,2,1,1,1,Real Bed,2,272,98.0,10.0,10.0,10.0,10.0,10.0,9.0,155.0,1
+f,strict_14_with_grace_period,t,2,Western Addition,37.77478,-12.24315,Apartment,Entire home/apt,10,2,4,7,Real Bed,2,31,90.0,9.0,8.0,9.0,9.0,9.0,9.0,450.0,0
+t,moderate,f,9,Pacific Heights,37.79312,-1.2242600000000001,Apartment,Private room,1,0,1,1,Real Bed,30,160,92.0,10.0,9.0,10.0,10.0,10.0,9.0,55.0,1
+t,moderate,f,9,Pacific Heights,37.79166,-12.24265,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,38,93.0,9.0,9.0,10.0,10.0,10.0,9.0,115.0,1
+f,flexible,t,20,Financial District,37.794470000000004,-12.24045,Hostel,Shared room,1,1,1,1,Real Bed,1,356,92.0,10.0,10.0,10.0,10.0,10.0,10.0,45.0,1
+f,strict_14_with_grace_period,f,1,Downtown/Civic Center,37.78025,-12.24131,Loft,Entire home/apt,1,1,1,1,Real Bed,30,14,97.0,10.0,10.0,10.0,10.0,8.0,9.0,250.0,1
+t,strict_14_with_grace_period,t,2,North Beach,37.80591,-12.24083,Condominium,Entire home/apt,4,1,1,2,Real Bed,30,6,96.0,10.0,10.0,10.0,10.0,10.0,9.0,125.0,1
+f,flexible,f,1,North Beach,37.79835,-12.24042,Apartment,Entire home/apt,3,1,1,1,Real Bed,30,60,92.0,10.0,9.0,10.0,10.0,10.0,9.0,150.0,1
+t,strict_14_with_grace_period,f,1,Russian Hill,37.80242,-12.241439999999999,Guest suite,Entire home/apt,2,1,1,1,Real Bed,3,433,95.0,10.0,9.0,10.0,10.0,10.0,10.0,165.0,1
+f,moderate,f,4,Russian Hill,37.80281,-12.241539999999999,Condominium,Private room,6,2,1,1,Real Bed,2,170,95.0,10.0,10.0,10.0,10.0,10.0,9.0,139.0,1
+f,flexible,t,20,Financial District,37.793409999999994,-12.24034,Hostel,Shared room,3,1,1,3,Real Bed,1,319,93.0,10.0,9.0,10.0,10.0,10.0,9.0,45.0,1
+f,moderate,f,1,Noe Valley,37.75131,-1.2243700000000002,House,Entire home/apt,2,1,1,1,Real Bed,7,53,97.0,10.0,10.0,10.0,10.0,10.0,9.0,159.0,1
+f,strict_14_with_grace_period,f,1,Pacific Heights,37.790259999999996,-12.24364,House,Entire home/apt,6,2,3,4,Real Bed,7,38,96.0,10.0,9.0,10.0,10.0,10.0,9.0,325.0,1
+t,moderate,t,3,Castro/Upper Market,37.75813,-12.24355,Apartment,Entire home/apt,3,1,1,1,Real Bed,2,189,90.0,10.0,9.0,10.0,10.0,10.0,9.0,115.0,1
+t,strict_14_with_grace_period,f,7,Chinatown,37.79455,-1.22406,House,Shared room,1,2,1,1,Real Bed,30,8,100.0,9.0,8.0,10.0,10.0,9.0,10.0,30.0,1
+t,moderate,f,4,Castro/Upper Market,37.76003,-12.24357,Apartment,Private room,2,1,1,1,Real Bed,2,41,94.0,9.0,9.0,9.0,10.0,10.0,9.0,100.0,1
+f,strict_14_with_grace_period,f,12,Western Addition,37.77407,-12.243310000000001,Apartment,Entire home/apt,7,1,1,5,Real Bed,30,20,89.0,9.0,8.0,9.0,10.0,10.0,8.0,110.0,0
+f,strict_14_with_grace_period,f,2,Castro/Upper Market,3.77618,-12.24269,House,Entire home/apt,5,3,3,2,Real Bed,3,10,100.0,10.0,10.0,10.0,10.0,10.0,10.0,545.0,1
+f,moderate,f,1,Castro/Upper Market,37.75756,-12.24364,Guest suite,Entire home/apt,2,1,0,1,Real Bed,1,224,94.0,10.0,10.0,10.0,10.0,10.0,10.0,199.0,1
+f,flexible,f,2,Western Addition,37.771440000000005,-12.24347,Apartment,Private room,2,1,1,1,Real Bed,4,96,98.0,10.0,10.0,10.0,10.0,10.0,9.0,115.0,1
+f,strict_14_with_grace_period,f,1,Nob Hill,37.79476,-1.22422,Apartment,Private room,2,2,1,1,Real Bed,50,17,98.0,10.0,9.0,10.0,10.0,10.0,9.0,125.0,1
+f,moderate,f,3,Potrero Hill,37.76186,-12.24037,Apartment,Private room,1,1,1,1,Real Bed,4,5,100.0,10.0,10.0,10.0,10.0,10.0,10.0,129.0,1
+f,strict_14_with_grace_period,t,2,Haight Ashbury,37.77558,-12.244060000000001,Apartment,Private room,1,1,1,1,Real Bed,2,61,96.0,10.0,9.0,10.0,10.0,10.0,10.0,93.0,1
+t,flexible,f,6,Mission,37.76024,-12.24088,Apartment,Private room,1,1,1,1,Real Bed,31,8,100.0,10.0,10.0,10.0,10.0,10.0,10.0,80.0,1
+f,moderate,f,1,North Beach,37.800309999999996,-12.240639999999999,Apartment,Private room,2,1,1,1,Real Bed,30,37,94.0,10.0,10.0,9.0,10.0,10.0,9.0,130.0,1
+f,moderate,t,1,Outer Mission,3.77351,-12.24415,House,Private room,2,1,1,1,Real Bed,4,140,95.0,10.0,9.0,10.0,10.0,10.0,10.0,85.0,1
+f,moderate,f,1,Mission,37.75797,-12.240960000000001,Apartment,Entire home/apt,7,1,2,4,Real Bed,2,19,97.0,10.0,9.0,10.0,10.0,10.0,9.0,240.0,1
+f,strict_14_with_grace_period,f,2,Mission,37.76375,-12.24125,Loft,Entire home/apt,4,1,2,2,Real Bed,30,4,100.0,10.0,9.0,10.0,10.0,10.0,9.0,180.0,1
+f,strict_14_with_grace_period,f,2,Haight Ashbury,37.766459999999995,-12.24432,Condominium,Entire home/apt,4,1,1,1,Real Bed,30,79,99.0,10.0,10.0,10.0,10.0,10.0,10.0,160.0,1
+t,strict_14_with_grace_period,f,1,South of Market,3.7782199999999997,-1.22404,Loft,Entire home/apt,2,1,1,1,Real Bed,30,51,98.0,10.0,10.0,10.0,10.0,9.0,9.0,175.0,1
+t,moderate,f,1,North Beach,37.80153,-12.24094,Apartment,Entire home/apt,6,1,2,2,Real Bed,30,175,99.0,10.0,10.0,10.0,10.0,10.0,10.0,185.0,1
+f,strict_14_with_grace_period,f,2,Haight Ashbury,37.76739,-12.24493,Condominium,Entire home/apt,2,1,1,1,Real Bed,30,111,94.0,9.0,10.0,10.0,10.0,10.0,9.0,295.0,1
+t,flexible,f,3,South of Market,37.77778,-12.23975,Condominium,Entire home/apt,4,2,2,2,Real Bed,2,12,96.0,10.0,9.0,9.0,10.0,9.0,10.0,250.0,1
+f,flexible,t,20,Financial District,37.79421,-12.240310000000001,Hostel,Shared room,3,1,1,3,Real Bed,1,172,94.0,10.0,9.0,10.0,10.0,10.0,10.0,45.0,1
+f,strict_14_with_grace_period,f,2,Inner Sunset,37.75942,-12.24677,Bungalow,Entire home/apt,2,1,1,1,Real Bed,30,11,88.0,9.0,8.0,10.0,9.0,10.0,8.0,104.0,1
+f,moderate,f,3,Crocker Amazon,37.70978,-12.24308,House,Private room,2,2,3,1,Real Bed,3,217,88.0,9.0,9.0,9.0,9.0,8.0,9.0,69.0,0
+t,strict_14_with_grace_period,f,2,Mission,37.762209999999996,-12.24199,Condominium,Private room,1,1,1,1,Real Bed,1,88,100.0,10.0,10.0,10.0,10.0,10.0,10.0,168.0,1
+t,moderate,f,2,Mission,3.77665,-12.24183,Townhouse,Entire home/apt,4,1,2,2,Real Bed,5,30,99.0,10.0,10.0,10.0,10.0,9.0,10.0,549.0,1
+t,moderate,f,1,Inner Sunset,37.76464,-12.246780000000001,Apartment,Entire home/apt,4,1,2,2,Real Bed,30,219,97.0,10.0,10.0,10.0,10.0,10.0,10.0,190.0,1
+t,moderate,t,6,Bernal Heights,37.74446,-12.24085,House,Entire home/apt,10,2,4,7,Real Bed,2,22,99.0,10.0,10.0,10.0,10.0,10.0,9.0,859.0,1
+f,moderate,f,2,Pacific Heights,37.79177,-12.243269999999999,House,Entire home/apt,6,2,3,3,Real Bed,5,8,100.0,10.0,10.0,10.0,10.0,10.0,9.0,890.0,1
+f,moderate,f,1,Russian Hill,37.79844,-12.24105,Apartment,Private room,1,1,1,1,Real Bed,30,105,92.0,9.0,9.0,10.0,10.0,9.0,9.0,99.0,1
+f,flexible,f,1,Western Addition,37.78694,-12.24357,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,135.0,1
+t,moderate,f,2,Castro/Upper Market,37.75855,-12.244530000000001,House,Private room,2,1,1,1,Real Bed,1,487,99.0,10.0,10.0,10.0,10.0,10.0,10.0,111.0,1
+t,moderate,f,41,Downtown/Civic Center,37.77632,-1.22422,Condominium,Entire home/apt,4,2,3,3,Real Bed,30,4,100.0,10.0,10.0,10.0,10.0,10.0,10.0,255.0,1
+f,strict_14_with_grace_period,f,2,South of Market,37.77807,-12.241010000000001,Loft,Entire home/apt,4,2,2,2,Real Bed,1,60,98.0,10.0,10.0,10.0,10.0,9.0,9.0,595.0,1
+f,strict_14_with_grace_period,f,2,Mission,37.755990000000004,-12.24222,Apartment,Entire home/apt,4,1,2,4,Real Bed,3,25,98.0,10.0,10.0,10.0,10.0,10.0,10.0,225.0,1
+f,strict_14_with_grace_period,f,2,Presidio Heights,37.784909999999996,-12.24581,Apartment,Entire home/apt,8,1,3,3,Real Bed,2,11,96.0,10.0,10.0,9.0,10.0,10.0,9.0,1500.0,1
+t,strict_14_with_grace_period,f,2,Castro/Upper Market,37.760870000000004,-12.24414,Apartment,Entire home/apt,8,2,3,6,Real Bed,3,100,97.0,10.0,10.0,10.0,10.0,10.0,9.0,525.0,1
+f,strict_14_with_grace_period,f,1,South of Market,37.77782,-12.23968,Apartment,Entire home/apt,2,1,1,0,Real Bed,180,55,98.0,10.0,10.0,10.0,10.0,10.0,9.0,217.0,1
+f,strict_14_with_grace_period,f,14,Western Addition,37.77871,-12.24372,Apartment,Private room,2,1,1,1,Real Bed,30,13,75.0,7.0,7.0,9.0,9.0,9.0,7.0,50.0,0
+f,moderate,f,1,Russian Hill,37.79769,-12.24227,Apartment,Entire home/apt,4,2,2,2,Real Bed,30,6,100.0,10.0,10.0,10.0,10.0,10.0,10.0,185.0,1
+t,strict_14_with_grace_period,f,2,Potrero Hill,37.762440000000005,-12.239460000000001,House,Entire home/apt,6,2,3,3,Real Bed,2,62,97.0,10.0,9.0,10.0,10.0,10.0,9.0,500.0,1
+f,strict_14_with_grace_period,f,11,Financial District,0.37787,-12.23971,Serviced apartment,Entire home/apt,2,1,1,1,Real Bed,30,3,100.0,10.0,10.0,9.0,10.0,10.0,8.0,173.0,1
+t,strict_14_with_grace_period,f,68,Downtown/Civic Center,37.78712,-12.240960000000001,Hostel,Private room,4,1,0,2,Real Bed,1,101,97.0,10.0,10.0,10.0,10.0,10.0,10.0,175.0,1
+f,moderate,f,1,Marina,37.79899,-12.243160000000001,Condominium,Entire home/apt,4,2,2,2,Real Bed,30,49,98.0,10.0,10.0,10.0,10.0,10.0,9.0,345.0,1
+t,moderate,t,1,Bernal Heights,37.73704,-1.22417,Apartment,Entire home/apt,4,1,2,2,Real Bed,4,109,96.0,10.0,10.0,10.0,10.0,10.0,9.0,199.0,1
+f,moderate,f,2,Bayview,37.73853,-0.0012239,House,Entire home/apt,4,1,2,2,Real Bed,31,59,97.0,10.0,10.0,9.0,10.0,10.0,10.0,445.0,1
+t,moderate,f,1,Mission,37.763459999999995,-1.22425,Apartment,Private room,2,1,1,1,Real Bed,2,316,99.0,10.0,10.0,10.0,10.0,10.0,10.0,145.0,1
+f,moderate,f,6,Western Addition,37.780359999999995,-12.242410000000001,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,30,97.0,10.0,9.0,10.0,10.0,10.0,9.0,100.0,1
+t,moderate,f,1,Mission,37.76663,-12.24202,Apartment,Entire home/apt,4,1,2,2,Real Bed,30,127,98.0,10.0,10.0,10.0,10.0,10.0,9.0,395.0,1
+f,moderate,f,1,Excelsior,37.73101,-12.242289999999999,Apartment,Entire home/apt,1,1,1,1,Real Bed,3,47,93.0,10.0,9.0,10.0,10.0,9.0,9.0,139.0,1
+t,strict_14_with_grace_period,f,4,Twin Peaks,37.748459999999994,-12.244480000000001,Apartment,Entire home/apt,4,2,2,3,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,216.0,1
+f,flexible,t,3,Inner Richmond,37.78455,-12.24752,Apartment,Entire home/apt,6,1,2,3,Real Bed,1,62,98.0,10.0,10.0,10.0,10.0,10.0,10.0,190.0,1
+t,strict_14_with_grace_period,f,2,Western Addition,37.78629,-12.243310000000001,House,Entire home/apt,8,3,4,4,Real Bed,6,5,88.0,10.0,8.0,10.0,10.0,10.0,9.0,750.0,1
+f,moderate,f,1,Potrero Hill,3.7757199999999997,-12.23926,Townhouse,Private room,2,1,1,1,Real Bed,2,111,97.0,10.0,10.0,10.0,10.0,10.0,10.0,115.0,1
+f,strict_14_with_grace_period,f,2,Mission,37.75565,-12.242410000000001,Apartment,Entire home/apt,10,1,4,6,Real Bed,3,84,93.0,9.0,9.0,10.0,10.0,10.0,9.0,418.0,1
+f,strict_14_with_grace_period,f,1,Western Addition,37.77333,-12.243219999999999,Apartment,Entire home/apt,5,1,2,2,Real Bed,3,72,92.0,10.0,9.0,10.0,10.0,10.0,9.0,285.0,1
+f,strict_14_with_grace_period,f,4,South of Market,37.77814,-12.23977,Serviced apartment,Entire home/apt,2,1,1,1,Real Bed,30,7,100.0,10.0,10.0,10.0,10.0,10.0,9.0,220.0,1
+f,strict_14_with_grace_period,f,2,Haight Ashbury,37.76913,-12.24456,House,Entire home/apt,8,1,4,6,Real Bed,6,40,99.0,10.0,10.0,10.0,10.0,10.0,10.0,375.0,1
+f,moderate,f,1,Mission,3.77625,-12.24226,House,Entire home/apt,6,2,4,4,Real Bed,5,21,96.0,10.0,10.0,9.0,9.0,10.0,9.0,575.0,1
+f,moderate,t,6,Mission,37.766020000000005,-12.24165,House,Private room,2,2,1,1,Real Bed,1,228,94.0,10.0,10.0,10.0,10.0,9.0,9.0,99.0,1
+f,strict_14_with_grace_period,t,2,Castro/Upper Market,37.76243,-12.24308,Apartment,Entire home/apt,4,1,2,2,Real Bed,4,10,92.0,10.0,8.0,10.0,10.0,10.0,10.0,900.0,1
+t,strict_14_with_grace_period,f,2,Bernal Heights,37.73728,-12.24157,Guest suite,Entire home/apt,2,1,1,1,Real Bed,2,169,92.0,10.0,9.0,10.0,10.0,9.0,9.0,110.0,1
+f,strict_14_with_grace_period,f,1,Inner Sunset,37.758590000000005,-12.24682,Apartment,Entire home/apt,4,1,2,2,Real Bed,31,40,99.0,10.0,10.0,10.0,10.0,10.0,10.0,279.0,1
+t,strict_14_with_grace_period,f,2,North Beach,37.79934,-12.24049,Apartment,Entire home/apt,3,1,1,2,Real Bed,30,93,88.0,9.0,9.0,9.0,9.0,10.0,8.0,118.0,1
+f,strict_14_with_grace_period,f,2,South of Market,37.77562,-12.24169,House,Private room,1,1,1,1,Real Bed,30,40,93.0,9.0,9.0,10.0,10.0,9.0,9.0,62.0,1
+t,strict_14_with_grace_period,t,1,Western Addition,37.78629,-12.24457,Apartment,Private room,3,1,1,2,Real Bed,3,267,98.0,10.0,9.0,10.0,10.0,10.0,9.0,145.0,1
+f,moderate,t,4,Outer Richmond,37.773340000000005,-12.25009,House,Private room,2,1,1,1,Real Bed,3,164,95.0,9.0,9.0,10.0,10.0,9.0,9.0,89.0,1
+f,moderate,f,3,Outer Mission,37.73227,-12.244819999999999,House,Private room,2,1,1,1,Real Bed,30,21,99.0,10.0,10.0,10.0,10.0,10.0,10.0,90.0,1
+t,strict_14_with_grace_period,f,1,Inner Richmond,37.78502,-12.24653,House,Entire home/apt,4,2,2,2,Real Bed,30,190,96.0,10.0,10.0,10.0,10.0,10.0,9.0,295.0,1
+f,flexible,t,1,Western Addition,37.775490000000005,-0.0012243,Apartment,Entire home/apt,2,1,1,2,Real Bed,30,6,100.0,10.0,10.0,10.0,10.0,10.0,10.0,200.0,1
+f,strict_14_with_grace_period,f,5,Western Addition,37.78772,-12.24325,Apartment,Entire home/apt,3,1,1,2,Real Bed,30,6,90.0,9.0,10.0,10.0,9.0,9.0,9.0,120.0,1
+f,strict_14_with_grace_period,f,1,Bayview,37.73254,-12.23884,House,Private room,2,1,1,1,Real Bed,30,23,87.0,9.0,9.0,10.0,10.0,8.0,9.0,85.0,1
+f,moderate,f,8,Outer Mission,37.73263,-12.24414,Apartment,Private room,6,1,2,3,Real Bed,1,20,93.0,9.0,9.0,10.0,10.0,9.0,9.0,170.0,1
+f,flexible,f,2,Castro/Upper Market,37.76312,-12.24315,Apartment,Entire home/apt,4,1,1,2,Real Bed,30,63,97.0,9.0,10.0,10.0,10.0,10.0,9.0,198.0,1
+f,strict_14_with_grace_period,f,1,Bernal Heights,37.74273,-12.24083,House,Entire home/apt,5,2,2,2,Real Bed,3,27,98.0,10.0,10.0,10.0,10.0,9.0,10.0,199.0,1
+t,flexible,f,1,Castro/Upper Market,37.76161,-12.24324,Condominium,Private room,2,1,1,1,Real Bed,1,304,97.0,10.0,10.0,10.0,10.0,10.0,10.0,99.0,1
+f,moderate,t,1,Haight Ashbury,37.76918,-0.0012245,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,122,92.0,10.0,9.0,10.0,10.0,10.0,9.0,99.0,1
+f,strict_14_with_grace_period,f,1,Outer Sunset,37.75966,-12.25085,Guest suite,Entire home/apt,5,1,2,2,Real Bed,2,120,95.0,10.0,10.0,10.0,10.0,10.0,9.0,295.0,1
+f,flexible,t,2,Potrero Hill,37.75983,-12.23966,House,Private room,2,1,1,1,Real Bed,2,174,94.0,9.0,9.0,10.0,10.0,10.0,9.0,100.0,1
+f,strict_14_with_grace_period,t,2,Marina,37.79999,-12.24443,Apartment,Entire home/apt,4,1,2,3,Real Bed,30,37,94.0,10.0,10.0,10.0,10.0,10.0,9.0,245.0,1
+f,moderate,f,1,Bernal Heights,37.74086,-1.22413,Bungalow,Entire home/apt,4,1,2,2,Real Bed,7,14,99.0,10.0,9.0,10.0,10.0,10.0,10.0,160.0,1
+t,moderate,f,6,Bernal Heights,37.73303,-12.24258,Hostel,Private room,1,2,1,1,Real Bed,30,10,100.0,10.0,9.0,10.0,10.0,10.0,10.0,59.0,1
+t,strict_14_with_grace_period,t,3,Inner Richmond,37.78031,-1.22451,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,22,85.0,10.0,8.0,10.0,9.0,9.0,9.0,55.0,1
+t,moderate,f,1,Outer Sunset,37.76283,-12.25075,House,Entire home/apt,4,1,2,2,Real Bed,30,103,94.0,10.0,9.0,9.0,10.0,9.0,9.0,130.0,1
+t,moderate,f,1,Bernal Heights,37.74394,-12.24075,House,Entire home/apt,4,1,2,2,Real Bed,2,94,98.0,10.0,10.0,10.0,10.0,10.0,10.0,275.0,1
+t,strict_14_with_grace_period,f,3,Haight Ashbury,37.76875,-12.24489,Apartment,Entire home/apt,8,1,3,4,Real Bed,30,59,98.0,10.0,10.0,10.0,10.0,10.0,9.0,290.0,1
+f,strict_14_with_grace_period,t,2,Mission,37.75179,-12.24082,Loft,Private room,2,1,1,1,Real Bed,30,25,93.0,10.0,9.0,10.0,10.0,9.0,8.0,75.0,1
+t,strict_14_with_grace_period,f,1,Haight Ashbury,37.76947,-12.24377,Apartment,Entire home/apt,2,1,1,0,Real Bed,30,160,97.0,10.0,10.0,10.0,10.0,10.0,9.0,120.0,1
+t,moderate,f,41,Western Addition,37.77077,-12.24261,Condominium,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,150.0,1
+f,moderate,f,1,Outer Sunset,3.77569,-12.25088,Apartment,Entire home/apt,4,1,2,2,Real Bed,3,20,99.0,10.0,10.0,10.0,10.0,10.0,10.0,245.0,1
+f,strict_14_with_grace_period,f,3,Western Addition,37.788759999999996,-12.242989999999999,Condominium,Entire home/apt,6,1,2,3,Real Bed,30,105,90.0,10.0,9.0,10.0,10.0,10.0,9.0,350.0,1
+t,strict_14_with_grace_period,f,2,Mission,37.75908,-12.24182,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,30,99.0,10.0,10.0,10.0,10.0,10.0,10.0,120.0,1
+f,strict_14_with_grace_period,f,2,Diamond Heights,37.746629999999996,-12.24426,Condominium,Private room,2,1,1,1,Real Bed,7,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,80.0,1
+t,moderate,f,1,Castro/Upper Market,37.756440000000005,-12.24408,Apartment,Private room,2,1,1,1,Real Bed,1,365,99.0,10.0,9.0,10.0,10.0,10.0,9.0,99.0,1
+f,strict_14_with_grace_period,f,1,Noe Valley,37.75161,-12.24301,House,Entire home/apt,6,1,3,3,Real Bed,4,4,100.0,10.0,10.0,10.0,10.0,10.0,10.0,675.0,1
+f,strict_14_with_grace_period,f,2,Bayview,37.72837,-12.23978,House,Entire home/apt,6,1,2,3,Real Bed,1,298,92.0,9.0,9.0,10.0,10.0,9.0,9.0,224.0,1
+t,strict_14_with_grace_period,f,1,Castro/Upper Market,3.77661,-12.24352,Guest suite,Entire home/apt,3,1,0,2,Real Bed,3,276,97.0,10.0,10.0,10.0,10.0,10.0,9.0,165.0,1
+t,strict_14_with_grace_period,t,3,Downtown/Civic Center,37.78007,-12.24194,Condominium,Entire home/apt,5,2,2,3,Real Bed,30,31,99.0,10.0,10.0,10.0,10.0,9.0,10.0,230.0,1
+t,strict_14_with_grace_period,f,1,Castro/Upper Market,37.76512,-12.24268,Condominium,Entire home/apt,3,1,1,1,Real Bed,30,163,96.0,10.0,9.0,10.0,10.0,10.0,9.0,189.0,1
+t,moderate,f,1,Chinatown,37.79234,-12.240689999999999,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,28,97.0,10.0,10.0,10.0,10.0,10.0,10.0,200.0,1
+f,strict_14_with_grace_period,f,21,Western Addition,37.77385,-12.24238,Apartment,Entire home/apt,4,1,2,2,Real Bed,30,15,81.0,8.0,9.0,9.0,10.0,9.0,9.0,135.0,0
+f,strict_14_with_grace_period,f,3,Potrero Hill,37.759479999999996,-12.24035,House,Entire home/apt,1,1,1,1,Futon,2,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,400.0,1
+f,strict_14_with_grace_period,f,1,Mission,37.754509999999996,-12.24165,Apartment,Entire home/apt,4,1,1,1,Real Bed,30,148,94.0,9.0,9.0,10.0,10.0,10.0,9.0,120.0,1
+f,strict_14_with_grace_period,f,2,North Beach,3.77995,-1.22405,Serviced apartment,Entire home/apt,4,1,2,2,Real Bed,30,20,92.0,9.0,9.0,10.0,9.0,10.0,9.0,249.0,1
+f,strict_14_with_grace_period,f,1,Bayview,37.71816,-1.22394,Guest suite,Entire home/apt,2,1,1,1,Real Bed,3,98,95.0,10.0,10.0,10.0,10.0,9.0,10.0,115.0,1
+f,strict_14_with_grace_period,f,1,Excelsior,37.72424,-12.24339,Apartment,Private room,2,1,1,1,Real Bed,30,92,98.0,10.0,10.0,10.0,10.0,9.0,10.0,53.0,1
+t,moderate,f,1,Bernal Heights,37.73355,-1.22431,Guest suite,Entire home/apt,4,1,0,1,Real Bed,3,310,99.0,10.0,10.0,10.0,10.0,10.0,10.0,125.0,1
+f,flexible,f,25,North Beach,37.79929,-12.24063,Bed and breakfast,Private room,2,0,1,1,Real Bed,1,130,91.0,10.0,9.0,10.0,10.0,9.0,9.0,95.0,1
+f,strict_14_with_grace_period,f,4,Bernal Heights,37.73366,-12.24271,Apartment,Entire home/apt,4,1,1,2,Real Bed,31,37,88.0,9.0,9.0,10.0,9.0,8.0,9.0,100.0,1
+t,moderate,f,2,Mission,37.75419,-12.241589999999999,Apartment,Entire home/apt,4,1,2,2,Real Bed,3,61,97.0,10.0,10.0,10.0,10.0,10.0,9.0,290.0,1
+t,moderate,f,1,Bernal Heights,37.74089,-12.24121,Apartment,Entire home/apt,4,1,2,2,Real Bed,2,132,98.0,10.0,10.0,10.0,10.0,10.0,10.0,139.0,1
+t,moderate,f,3,South of Market,37.775929999999995,-12.24142,Apartment,Private room,4,1,1,2,Real Bed,1,104,100.0,10.0,10.0,10.0,10.0,10.0,10.0,176.0,1
+f,strict_14_with_grace_period,f,1,Mission,37.75972,-12.24235,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,128,98.0,10.0,10.0,10.0,10.0,10.0,10.0,199.0,1
+f,strict_14_with_grace_period,f,1,Castro/Upper Market,37.75889,-12.24375,Apartment,Entire home/apt,3,2,2,2,Real Bed,30,6,93.0,9.0,9.0,10.0,10.0,10.0,9.0,126.0,1
+t,flexible,f,1,Bernal Heights,37.73612,-12.24111,House,Private room,2,1,1,1,Real Bed,4,195,98.0,10.0,10.0,10.0,10.0,9.0,10.0,89.0,1
+f,flexible,f,25,North Beach,37.79898,-12.24062,Bed and breakfast,Private room,2,0,1,2,Real Bed,1,55,91.0,10.0,9.0,10.0,10.0,9.0,9.0,83.0,1
+t,moderate,f,4,Western Addition,37.77868,-12.24348,Guest suite,Entire home/apt,2,1,1,1,Real Bed,3,190,99.0,10.0,10.0,10.0,10.0,10.0,10.0,225.0,1
+f,strict_14_with_grace_period,f,2,Bayview,37.73126,-12.23987,House,Private room,2,1,1,1,Real Bed,1,50,95.0,9.0,9.0,10.0,10.0,9.0,9.0,109.0,1
+t,moderate,t,3,Pacific Heights,3.7789099999999998,-12.24346,House,Private room,2,1,1,1,Real Bed,1,472,99.0,10.0,10.0,10.0,10.0,10.0,10.0,139.0,1
+t,strict_14_with_grace_period,f,1,Mission,37.75865,-12.24253,Apartment,Entire home/apt,1,1,1,1,Real Bed,30,31,96.0,10.0,9.0,10.0,10.0,10.0,9.0,160.0,1
+f,strict_14_with_grace_period,f,4,Outer Sunset,37.75797,-1.22501,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,97,89.0,9.0,10.0,10.0,10.0,9.0,9.0,90.0,1
+f,strict_14_with_grace_period,f,101,Noe Valley,37.749190000000006,-12.24348,Condominium,Entire home/apt,3,1,1,2,Real Bed,30,7,89.0,10.0,9.0,10.0,10.0,10.0,9.0,192.0,1
+f,strict_14_with_grace_period,t,1,Presidio Heights,37.785059999999994,-12.24493,Apartment,Private room,1,1,1,1,Real Bed,30,39,100.0,10.0,10.0,10.0,10.0,10.0,10.0,67.0,1
+f,moderate,t,6,Outer Mission,37.71165,-12.24462,House,Private room,2,1,1,1,Real Bed,30,43,92.0,10.0,10.0,10.0,10.0,8.0,9.0,50.0,1
+t,strict_14_with_grace_period,t,8,Mission,37.75687,-12.24146,Hostel,Shared room,1,2,1,1,Real Bed,1,212,96.0,10.0,9.0,10.0,10.0,9.0,9.0,55.0,1
+f,strict_14_with_grace_period,t,31,Bayview,37.72616,-12.238389999999999,Apartment,Private room,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,55.0,1
+t,strict_14_with_grace_period,f,8,Mission,37.756679999999996,-12.24147,Hostel,Shared room,1,2,1,1,Real Bed,30,140,93.0,10.0,8.0,10.0,10.0,10.0,9.0,33.0,1
+t,strict_14_with_grace_period,f,1,South of Market,37.77796,-12.24118,Apartment,Entire home/apt,4,2,2,2,Real Bed,31,14,100.0,10.0,9.0,10.0,10.0,9.0,10.0,180.0,1
+f,strict_14_with_grace_period,f,2,Noe Valley,37.75342,-1.22428,Apartment,Entire home/apt,4,1,1,2,Real Bed,30,18,97.0,10.0,10.0,10.0,10.0,10.0,10.0,140.0,1
+f,moderate,f,2,Inner Richmond,37.77637,-1.22459,Loft,Entire home/apt,4,1,1,2,Real Bed,30,9,91.0,10.0,9.0,10.0,10.0,9.0,9.0,199.0,1
+t,moderate,t,1,Inner Sunset,37.756029999999996,-12.246089999999999,House,Entire home/apt,4,1,1,3,Real Bed,1,106,96.0,10.0,10.0,10.0,10.0,9.0,9.0,150.0,1
+t,moderate,t,1,Haight Ashbury,37.77452,-12.244489999999999,Apartment,Entire home/apt,2,1,0,1,Real Bed,3,158,99.0,10.0,10.0,10.0,10.0,10.0,9.0,205.0,1
+t,strict_14_with_grace_period,f,2,Downtown/Civic Center,37.788990000000005,-12.24155,Apartment,Private room,2,1,1,1,Real Bed,2,68,97.0,10.0,10.0,10.0,10.0,10.0,10.0,79.0,1
+t,moderate,f,1,Russian Hill,37.79825,-12.24109,House,Private room,2,1,1,1,Real Bed,2,280,95.0,10.0,10.0,10.0,10.0,10.0,10.0,156.0,1
+t,moderate,f,3,Potrero Hill,37.755390000000006,-12.23973,House,Private room,2,1,1,0,Real Bed,1,230,97.0,10.0,10.0,10.0,10.0,10.0,9.0,146.0,1
+f,strict_14_with_grace_period,f,1,Financial District,37.78852,-12.240219999999999,Loft,Entire home/apt,2,2,1,1,Real Bed,30,6,95.0,10.0,10.0,10.0,10.0,10.0,9.0,300.0,1
+t,strict_14_with_grace_period,f,1,Outer Sunset,37.759640000000005,-12.250639999999999,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,116,98.0,10.0,10.0,10.0,10.0,10.0,10.0,98.0,1
+t,moderate,t,1,South of Market,37.78699,-12.239130000000001,Apartment,Entire home/apt,4,2,2,2,Real Bed,30,8,100.0,10.0,10.0,10.0,10.0,10.0,10.0,173.0,1
+t,moderate,f,1,Mission,37.76982,-12.24216,Apartment,Private room,2,1,1,1,Real Bed,1,136,95.0,10.0,10.0,10.0,10.0,9.0,9.0,125.0,1
+f,strict_14_with_grace_period,f,1,Mission,37.750440000000005,-12.241010000000001,Apartment,Entire home/apt,4,1,2,3,Real Bed,5,6,100.0,10.0,10.0,10.0,10.0,10.0,10.0,275.0,1
+t,moderate,f,2,Pacific Heights,37.78881,-0.0012244,Condominium,Entire home/apt,3,1,2,2,Real Bed,4,99,99.0,10.0,10.0,10.0,10.0,10.0,10.0,225.0,1
+f,moderate,f,1,South of Market,37.77062,-12.24214,Condominium,Private room,2,1,1,1,Real Bed,1,26,100.0,10.0,10.0,10.0,10.0,10.0,10.0,240.0,1
+f,flexible,f,1,Haight Ashbury,37.76637,-12.24467,House,Private room,2,1,1,1,Real Bed,7,50,96.0,10.0,10.0,10.0,10.0,10.0,10.0,80.0,1
+f,strict_14_with_grace_period,f,1,Mission,37.767070000000004,-12.242389999999999,House,Entire home/apt,6,2,3,4,Real Bed,30,19,100.0,10.0,10.0,10.0,10.0,10.0,9.0,325.0,1
+f,flexible,f,1,South of Market,37.77248,-12.24078,Loft,Entire home/apt,4,1,1,2,Real Bed,30,4,100.0,10.0,10.0,10.0,10.0,10.0,10.0,250.0,1
+f,strict_14_with_grace_period,f,1,Pacific Heights,37.79034,-12.24348,Apartment,Entire home/apt,1,1,0,1,Real Bed,30,1,80.0,10.0,6.0,10.0,10.0,10.0,8.0,129.0,0
+t,moderate,t,3,Outer Sunset,37.74896,-12.249239999999999,House,Private room,3,1,1,2,Real Bed,1,261,97.0,10.0,10.0,10.0,10.0,10.0,10.0,75.0,1
+f,strict_14_with_grace_period,f,2,South of Market,37.77681,-12.23972,Loft,Private room,1,1,1,1,Futon,30,4,100.0,10.0,10.0,10.0,10.0,10.0,10.0,375.0,1
+t,moderate,f,1,Castro/Upper Market,37.75647,-12.24358,Apartment,Entire home/apt,1,1,0,1,Real Bed,31,58,99.0,10.0,10.0,10.0,10.0,10.0,10.0,100.0,1
+f,strict_14_with_grace_period,f,1,Haight Ashbury,37.76978,-12.244489999999999,Apartment,Entire home/apt,9,2,3,7,Real Bed,2,10,96.0,10.0,10.0,10.0,10.0,9.0,9.0,450.0,1
+f,strict_14_with_grace_period,f,2,Noe Valley,37.74576,-12.24265,House,Entire home/apt,6,4,4,4,Real Bed,7,2,100.0,10.0,10.0,10.0,10.0,9.0,7.0,710.0,1
+t,flexible,f,1,Mission,3.7764900000000003,-12.24214,Apartment,Private room,1,1,1,1,Real Bed,2,63,98.0,10.0,10.0,10.0,10.0,10.0,10.0,100.0,1
+f,super_strict_60,f,35,Bayview,3.77106,-12.23903,House,Entire home/apt,4,1,2,2,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,170.0,1
+t,moderate,f,3,Noe Valley,37.74736,-12.24249,Condominium,Private room,1,1,1,1,Real Bed,3,42,100.0,10.0,10.0,10.0,10.0,10.0,10.0,95.0,1
+t,strict_14_with_grace_period,t,1,Mission,37.76205,-12.240789999999999,Apartment,Private room,1,1,1,1,Real Bed,2,131,98.0,10.0,10.0,10.0,10.0,10.0,10.0,89.0,1
+t,flexible,t,5,Lakeshore,37.73337,-12.24916,House,Private room,1,1,1,1,Real Bed,1,147,99.0,10.0,10.0,10.0,10.0,10.0,10.0,79.0,1
+f,moderate,f,1,Mission,3.7751099999999997,-12.24215,Condominium,Entire home/apt,6,1,3,4,Real Bed,3,9,93.0,10.0,9.0,10.0,10.0,10.0,9.0,300.0,1
+t,strict_14_with_grace_period,t,3,Haight Ashbury,37.77561,-12.24409,Apartment,Private room,6,1,1,3,Real Bed,1,260,97.0,10.0,10.0,10.0,10.0,10.0,9.0,239.0,1
+f,strict_14_with_grace_period,f,2,Outer Sunset,37.75994,-12.24804,House,Entire home/apt,4,1,2,2,Real Bed,3,50,95.0,10.0,9.0,10.0,10.0,10.0,10.0,300.0,1
+f,strict_14_with_grace_period,f,1,Inner Sunset,37.75329,-12.24686,House,Entire home/apt,6,2,3,4,Real Bed,7,9,98.0,10.0,10.0,10.0,10.0,10.0,10.0,400.0,1
+t,moderate,t,1,Mission,37.76021,-12.24255,Condominium,Entire home/apt,8,2,3,0,Real Bed,30,59,96.0,10.0,10.0,10.0,10.0,10.0,9.0,475.0,1
+f,strict_14_with_grace_period,f,21,Mission,37.754290000000005,-12.242289999999999,Apartment,Entire home/apt,4,1,2,2,Real Bed,30,5,92.0,8.0,8.0,10.0,10.0,10.0,9.0,135.0,1
+t,strict_14_with_grace_period,f,6,Presidio Heights,3.7781800000000003,-12.24568,House,Private room,2,1,1,1,Real Bed,2,2,100.0,10.0,10.0,10.0,10.0,10.0,10.0,145.0,1
+t,moderate,f,2,Castro/Upper Market,3.77671,-12.24325,Apartment,Private room,1,1,1,1,Real Bed,2,33,99.0,10.0,10.0,10.0,10.0,10.0,10.0,199.0,1
+f,strict_14_with_grace_period,t,51,Financial District,37.79565,-12.239939999999999,Apartment,Entire home/apt,4,1,0,2,Real Bed,31,7,100.0,10.0,9.0,10.0,10.0,10.0,9.0,150.0,1
+t,moderate,f,1,Russian Hill,37.80353,-12.242230000000001,Guest suite,Entire home/apt,2,1,1,2,Real Bed,1,244,93.0,10.0,10.0,10.0,10.0,10.0,9.0,170.0,1
+t,strict_14_with_grace_period,f,1,Inner Sunset,37.763529999999996,-12.24702,Apartment,Entire home/apt,4,1,2,3,Real Bed,5,41,96.0,10.0,10.0,10.0,10.0,9.0,10.0,229.0,1
+f,flexible,f,1,Downtown/Civic Center,37.78843,-12.24128,Apartment,Entire home/apt,1,1,0,1,Real Bed,1,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,60.0,1
+f,moderate,f,1,Bernal Heights,37.742779999999996,-12.24196,Apartment,Entire home/apt,4,1,2,2,Real Bed,30,28,96.0,10.0,10.0,10.0,10.0,10.0,9.0,175.0,1
+t,moderate,f,1,West of Twin Peaks,37.741170000000004,-12.24635,Guest suite,Private room,2,1,1,1,Real Bed,2,165,96.0,10.0,10.0,10.0,10.0,10.0,10.0,109.0,1
+t,moderate,t,3,Outer Sunset,37.74758,-12.24907,House,Private room,8,2,2,5,Real Bed,1,100,97.0,10.0,10.0,10.0,10.0,9.0,10.0,200.0,1
+f,moderate,f,483,South of Market,37.770509999999994,-12.23926,Apartment,Entire home/apt,3,1,1,2,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,299.0,1
+f,strict_14_with_grace_period,f,3,Western Addition,37.78255,-12.24381,House,Entire home/apt,10,2,5,10,Real Bed,30,22,87.0,9.0,8.0,9.0,9.0,9.0,9.0,450.0,0
+t,strict_14_with_grace_period,f,1,Haight Ashbury,37.767309999999995,-12.244580000000001,Condominium,Private room,2,1,1,1,Real Bed,1,103,99.0,10.0,10.0,10.0,10.0,10.0,10.0,175.0,1
+t,moderate,t,1,Noe Valley,37.74844,-12.24282,Guest suite,Entire home/apt,4,1,1,3,Real Bed,1,292,96.0,10.0,10.0,10.0,10.0,10.0,9.0,142.0,1
+t,super_strict_30,f,82,Downtown/Civic Center,37.78835,-12.24112,Apartment,Entire home/apt,4,1,0,2,Real Bed,1,17,100.0,10.0,10.0,10.0,10.0,10.0,10.0,249.0,1
+f,strict_14_with_grace_period,f,2,Potrero Hill,37.754290000000005,-12.24012,Apartment,Private room,1,1,1,1,Real Bed,30,5,92.0,9.0,9.0,9.0,10.0,9.0,9.0,39.0,1
+f,moderate,f,1,Visitacion Valley,37.71555,-12.239939999999999,Condominium,Entire home/apt,6,2,2,3,Real Bed,30,94,97.0,10.0,10.0,10.0,10.0,9.0,10.0,224.0,1
+t,moderate,t,1,Outer Mission,37.73035,-12.24452,House,Private room,2,1,1,1,Real Bed,3,179,98.0,10.0,10.0,10.0,10.0,10.0,10.0,104.0,1
+t,flexible,f,1,Mission,37.74951,-12.24098,House,Private room,4,1,1,1,Real Bed,1,40,100.0,10.0,10.0,10.0,10.0,10.0,10.0,250.0,1
+f,strict_14_with_grace_period,t,2,Western Addition,37.78409,-12.24438,Condominium,Entire home/apt,4,2,2,2,Real Bed,30,2,100.0,9.0,10.0,10.0,10.0,7.0,9.0,293.0,1
+t,moderate,f,1,Potrero Hill,37.761179999999996,-12.23967,Apartment,Entire home/apt,4,1,2,2,Real Bed,3,43,96.0,10.0,10.0,10.0,10.0,10.0,10.0,195.0,1
+f,strict_14_with_grace_period,t,1,Downtown/Civic Center,37.78268,-12.24222,Condominium,Entire home/apt,2,1,0,1,Real Bed,30,19,98.0,10.0,10.0,10.0,10.0,9.0,10.0,110.0,1
+f,strict_14_with_grace_period,f,101,North Beach,37.80297,-1.22405,Condominium,Entire home/apt,2,1,1,1,Real Bed,30,3,93.0,9.0,9.0,10.0,10.0,10.0,10.0,246.0,1
+f,strict_14_with_grace_period,f,1,Inner Richmond,37.77858,-12.24492,House,Entire home/apt,8,3,4,5,Real Bed,5,17,99.0,10.0,10.0,10.0,10.0,10.0,10.0,599.0,1
+f,strict_14_with_grace_period,t,2,Western Addition,37.77084,-12.243030000000001,Condominium,Entire home/apt,2,1,1,1,Real Bed,2,21,98.0,10.0,10.0,10.0,10.0,10.0,10.0,200.0,1
+f,moderate,t,28,Downtown/Civic Center,37.78768,-12.24099,Apartment,Private room,2,1,1,1,Real Bed,1,70,90.0,10.0,10.0,10.0,9.0,10.0,10.0,110.0,1
+f,moderate,t,28,Downtown/Civic Center,37.786840000000005,-12.24094,Apartment,Private room,2,1,1,1,Real Bed,1,61,88.0,10.0,9.0,10.0,9.0,10.0,9.0,110.0,1
+f,flexible,t,28,Downtown/Civic Center,37.78688,-1.22409,Apartment,Private room,2,1,1,1,Real Bed,1,94,90.0,10.0,9.0,10.0,9.0,10.0,9.0,110.0,1
+f,flexible,t,28,Downtown/Civic Center,37.78546,-12.24085,Apartment,Private room,2,1,1,1,Real Bed,1,90,88.0,9.0,9.0,9.0,9.0,10.0,9.0,40.0,1
+t,strict_14_with_grace_period,t,8,Mission,3.7758300000000005,-12.24128,Hostel,Shared room,1,2,1,1,Real Bed,1,173,96.0,10.0,9.0,10.0,10.0,10.0,10.0,55.0,1
+t,strict_14_with_grace_period,f,3,Pacific Heights,37.78918,-12.24419,House,Private room,2,1,1,1,Real Bed,3,44,100.0,10.0,10.0,10.0,10.0,10.0,10.0,186.0,1
+f,flexible,f,1,Twin Peaks,37.75186,-12.24441,Apartment,Private room,1,1,1,1,Real Bed,30,83,93.0,9.0,9.0,10.0,10.0,9.0,9.0,53.0,1
+t,strict_14_with_grace_period,f,68,Downtown/Civic Center,37.78819,-12.24095,Hotel,Private room,4,1,0,2,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,180.0,1
+t,strict_14_with_grace_period,f,1,Inner Sunset,37.761359999999996,-12.24635,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,123,97.0,10.0,10.0,10.0,10.0,10.0,10.0,122.0,1
+t,strict_14_with_grace_period,f,89,Downtown/Civic Center,37.77981,-12.242189999999999,Boutique hotel,Private room,2,1,1,1,Real Bed,1,93,97.0,10.0,10.0,10.0,10.0,10.0,10.0,140.0,1
+f,moderate,f,2,Haight Ashbury,3.77693,-12.24514,Apartment,Private room,2,1,1,1,Futon,3,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,99.0,1
+t,strict_14_with_grace_period,f,68,Downtown/Civic Center,37.78848,-12.241060000000001,Hotel,Private room,4,1,0,2,Real Bed,1,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,180.0,1
+t,strict_14_with_grace_period,f,1,Mission,37.75566,-12.24186,House,Private room,2,1,1,1,Real Bed,30,72,99.0,10.0,10.0,10.0,10.0,10.0,10.0,165.0,1
+f,strict_14_with_grace_period,f,33,South of Market,37.77887,-12.23916,Serviced apartment,Entire home/apt,2,1,1,1,Real Bed,30,2,80.0,9.0,10.0,10.0,9.0,10.0,8.0,144.0,1
+t,flexible,t,5,Noe Valley,37.74687,-12.24284,House,Private room,2,1,1,1,Real Bed,1,292,97.0,10.0,10.0,10.0,10.0,10.0,9.0,105.0,1
+f,moderate,f,3,Noe Valley,37.75078,-12.24427,Condominium,Private room,2,1,1,1,Real Bed,1,12,98.0,10.0,10.0,10.0,10.0,10.0,10.0,138.0,1
+t,flexible,f,5,Parkside,37.74566,-1.22478,House,Private room,2,1,1,2,Real Bed,30,69,98.0,10.0,10.0,10.0,10.0,10.0,10.0,65.0,1
+t,moderate,t,6,Western Addition,37.77297,-12.243689999999999,Townhouse,Private room,2,1,1,1,Real Bed,1,170,95.0,10.0,9.0,10.0,10.0,10.0,10.0,125.0,1
+f,strict_14_with_grace_period,f,1,Bernal Heights,37.74439,-12.24067,House,Entire home/apt,7,3,3,3,Real Bed,3,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,300.0,1
+f,flexible,f,1,Castro/Upper Market,37.758959999999995,-12.24338,Apartment,Entire home/apt,4,3,2,2,Real Bed,30,1,100.0,10.0,6.0,10.0,10.0,10.0,10.0,199.0,1
+f,strict_14_with_grace_period,t,51,Financial District,37.79716,-12.23988,Apartment,Entire home/apt,4,1,0,1,Real Bed,31,7,97.0,9.0,10.0,10.0,10.0,10.0,10.0,140.0,1
+t,strict_14_with_grace_period,f,1,Parkside,37.74762,-12.24751,Apartment,Entire home/apt,12,2,3,6,Real Bed,2,170,97.0,10.0,10.0,10.0,10.0,9.0,10.0,499.0,1
+f,moderate,f,2,Pacific Heights,37.79356,-12.24366,Apartment,Entire home/apt,4,1,1,2,Real Bed,30,17,99.0,10.0,10.0,10.0,10.0,10.0,9.0,300.0,1
+t,moderate,t,1,Potrero Hill,3.7762599999999997,-1.22395,Apartment,Entire home/apt,4,1,0,2,Real Bed,30,156,94.0,10.0,10.0,10.0,10.0,10.0,10.0,150.0,1
+t,strict_14_with_grace_period,f,1,Outer Sunset,37.75504,-1.22509,House,Entire home/apt,5,1,2,2,Real Bed,3,32,95.0,10.0,9.0,10.0,10.0,10.0,9.0,220.0,1
+t,moderate,f,1,Mission,3.7764699999999998,-12.24222,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,241,96.0,10.0,10.0,10.0,10.0,10.0,9.0,149.0,1
+t,flexible,f,4,Downtown/Civic Center,37.78877,-12.24083,Boutique hotel,Private room,2,1,1,1,Real Bed,5,51,98.0,10.0,10.0,10.0,10.0,10.0,10.0,125.0,1
+t,moderate,f,3,Castro/Upper Market,37.762229999999995,-0.0012243,Apartment,Private room,2,2,1,1,Real Bed,2,133,98.0,10.0,10.0,10.0,10.0,10.0,10.0,133.0,1
+t,moderate,f,9,Outer Mission,37.725640000000006,-12.24381,House,Private room,2,1,1,1,Real Bed,2,85,98.0,10.0,10.0,10.0,10.0,9.0,10.0,80.0,1
+f,strict_14_with_grace_period,f,1,Russian Hill,37.80101,-12.241430000000001,Apartment,Entire home/apt,7,3,3,4,Real Bed,30,4,100.0,10.0,10.0,10.0,10.0,9.0,10.0,600.0,1
+t,flexible,f,4,Downtown/Civic Center,37.78889,-1.22409,Boutique hotel,Private room,2,2,1,1,Real Bed,5,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,279.0,1
+f,strict_14_with_grace_period,f,1,Haight Ashbury,37.76984,-12.24461,Apartment,Entire home/apt,4,1,2,2,Real Bed,30,4,100.0,10.0,10.0,10.0,10.0,10.0,10.0,127.0,1
+t,moderate,t,2,Outer Richmond,37.78113,-12.250110000000001,House,Private room,2,1,1,1,Real Bed,2,273,98.0,10.0,10.0,10.0,10.0,10.0,9.0,125.0,1
+t,moderate,f,2,Haight Ashbury,37.76631,-12.24516,Apartment,Private room,2,1,1,1,Real Bed,2,87,97.0,10.0,10.0,10.0,10.0,10.0,10.0,130.0,1
+t,strict_14_with_grace_period,f,3,Noe Valley,37.75282,-1.22438,House,Entire home/apt,5,1,2,3,Real Bed,30,22,100.0,10.0,10.0,10.0,10.0,10.0,10.0,300.0,1
+f,moderate,f,2,Western Addition,37.77751,-12.24365,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,5,100.0,10.0,10.0,10.0,10.0,10.0,9.0,155.0,1
+t,flexible,t,37,Chinatown,37.79136,-12.24061,Boutique hotel,Private room,4,2,1,2,Real Bed,2,5,100.0,10.0,10.0,10.0,10.0,10.0,10.0,300.0,1
+f,strict_14_with_grace_period,t,1,Inner Sunset,37.763040000000004,-12.24645,Apartment,Private room,2,1,1,1,Pull-out Sofa,1,229,94.0,10.0,10.0,10.0,10.0,10.0,9.0,94.0,1
+f,strict_14_with_grace_period,f,4,Downtown/Civic Center,37.78252,-12.24215,Hostel,Shared room,8,2,1,8,Real Bed,5,23,88.0,9.0,8.0,9.0,9.0,8.0,9.0,99.0,0
+t,moderate,f,1,Castro/Upper Market,37.75735,-12.24311,House,Entire home/apt,5,1,2,2,Real Bed,3,118,100.0,10.0,10.0,10.0,10.0,10.0,9.0,475.0,1
+f,strict_14_with_grace_period,t,106,Downtown/Civic Center,37.78946,-1.22413,Serviced apartment,Private room,4,1,1,2,Real Bed,2,54,96.0,10.0,10.0,10.0,10.0,10.0,9.0,288.0,1
+f,moderate,f,483,Financial District,37.790690000000005,-12.23932,Apartment,Entire home/apt,3,1,1,2,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,215.0,1
+f,strict_14_with_grace_period,f,101,Noe Valley,37.74879,-12.24262,Apartment,Entire home/apt,4,2,2,2,Real Bed,30,1,100.0,10.0,8.0,10.0,6.0,10.0,8.0,335.0,0
+t,moderate,f,1,Glen Park,37.73563,-12.24377,Bungalow,Private room,2,1,0,1,Futon,3,99,100.0,10.0,10.0,10.0,10.0,10.0,10.0,125.0,1
+t,moderate,f,2,Mission,0.37761,-12.242180000000001,Condominium,Entire home/apt,2,1,1,1,Real Bed,2,30,99.0,10.0,10.0,10.0,10.0,10.0,10.0,245.0,1
+f,moderate,t,1,Bernal Heights,37.73567,-1.22423,Guest suite,Entire home/apt,4,1,1,2,Real Bed,2,86,99.0,10.0,9.0,10.0,10.0,10.0,10.0,159.0,1
+f,strict_14_with_grace_period,f,4,Downtown/Civic Center,37.78199,-12.24217,Hotel,Private room,14,14,14,14,Real Bed,7,11,80.0,8.0,8.0,9.0,10.0,8.0,8.0,69.0,0
+t,moderate,f,2,Inner Richmond,37.77928,-12.245280000000001,Condominium,Entire home/apt,5,2,2,2,Real Bed,2,38,99.0,10.0,10.0,10.0,10.0,10.0,10.0,400.0,1
+t,moderate,t,1,Potrero Hill,37.75465,-12.24002,Guesthouse,Entire home/apt,3,1,2,2,Real Bed,5,59,98.0,10.0,10.0,10.0,10.0,9.0,10.0,215.0,1
+f,strict_14_with_grace_period,f,1,Inner Richmond,37.77384,-12.247110000000001,Condominium,Entire home/apt,5,2,3,3,Real Bed,7,8,98.0,10.0,9.0,10.0,10.0,10.0,9.0,360.0,1
+t,strict_14_with_grace_period,f,35,Chinatown,37.792159999999996,-12.24065,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,123.0,1
+f,flexible,f,25,North Beach,37.79925,-12.24046,Bed and breakfast,Shared room,2,0,1,1,Real Bed,1,59,94.0,9.0,9.0,10.0,10.0,9.0,9.0,69.0,1
+f,strict_14_with_grace_period,t,6,Parkside,37.743159999999996,-12.249880000000001,House,Private room,2,1,1,1,Real Bed,1,124,89.0,9.0,9.0,10.0,9.0,9.0,9.0,67.0,1
+f,strict_14_with_grace_period,f,3,Golden Gate Park,37.77033,-12.25101,Apartment,Entire home/apt,4,2,2,2,Real Bed,60,1,98.0,10.0,10.0,10.0,10.0,10.0,10.0,181.0,1
+t,flexible,f,7,Chinatown,37.79398,-12.24052,House,Shared room,1,2,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,30.0,1
+t,moderate,f,3,Mission,37.75011,-12.24168,House,Private room,2,1,1,1,Real Bed,2,50,96.0,10.0,10.0,10.0,10.0,10.0,9.0,190.0,1
+f,moderate,f,1,Nob Hill,37.79246,-1.22412,Condominium,Entire home/apt,4,1,2,2,Real Bed,58,48,96.0,10.0,10.0,10.0,10.0,10.0,9.0,138.0,1
+t,flexible,t,3,Excelsior,37.72475,-12.24057,House,Private room,2,0,1,1,Real Bed,1,160,99.0,10.0,10.0,10.0,10.0,9.0,10.0,68.0,1
+f,strict_14_with_grace_period,f,44,Mission,37.75195,-12.24221,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,6,96.0,10.0,10.0,9.0,10.0,10.0,10.0,121.0,1
+t,moderate,f,7,Potrero Hill,3.77621,-12.24035,House,Private room,2,2,1,1,Real Bed,1,243,98.0,10.0,10.0,10.0,10.0,10.0,10.0,88.0,1
+f,flexible,t,28,Downtown/Civic Center,37.78718,-12.24094,Apartment,Entire home/apt,2,1,1,1,Real Bed,1,116,92.0,10.0,10.0,10.0,9.0,10.0,10.0,110.0,1
+f,moderate,t,1,Inner Richmond,37.77964,-1.2247700000000001,House,Entire home/apt,6,1,3,4,Real Bed,2,7,100.0,10.0,10.0,10.0,10.0,9.0,9.0,400.0,1
+f,moderate,t,31,South of Market,37.787490000000005,-12.23902,Serviced apartment,Entire home/apt,2,1,1,1,Real Bed,30,1,80.0,10.0,10.0,8.0,6.0,10.0,8.0,189.0,0
+f,strict_14_with_grace_period,t,1,Mission,37.76384,-12.24248,Apartment,Private room,2,1,1,1,Real Bed,3,34,99.0,10.0,10.0,10.0,10.0,10.0,10.0,96.0,1
+t,strict_14_with_grace_period,f,1,Mission,37.76083,-12.24201,Apartment,Entire home/apt,4,1,2,2,Real Bed,3,63,95.0,10.0,10.0,10.0,9.0,10.0,9.0,250.0,1
+t,moderate,f,1,Castro/Upper Market,37.76037,-12.24262,Apartment,Private room,2,1,1,1,Real Bed,1,86,95.0,10.0,10.0,10.0,10.0,10.0,10.0,99.0,1
+f,strict_14_with_grace_period,f,3,Outer Richmond,37.77608,-12.24818,House,Private room,2,1,1,1,Real Bed,2,20,98.0,10.0,10.0,10.0,10.0,10.0,10.0,99.0,1
+f,moderate,f,1,Bernal Heights,37.73571,-12.24268,Apartment,Entire home/apt,4,1,1,2,Real Bed,1,34,99.0,10.0,10.0,10.0,10.0,10.0,10.0,160.0,1
+f,moderate,f,1,Diamond Heights,37.74608,-12.244439999999999,House,Private room,2,1,1,1,Real Bed,2,19,100.0,10.0,10.0,10.0,10.0,10.0,10.0,140.0,1
+t,super_strict_30,t,82,Downtown/Civic Center,37.78846,-12.24098,Apartment,Entire home/apt,4,1,0,2,Real Bed,1,15,97.0,10.0,10.0,10.0,10.0,10.0,10.0,269.0,1
+f,moderate,f,2,Western Addition,37.77531,-1.2242899999999999,House,Private room,2,1,2,2,Real Bed,3,34,99.0,10.0,9.0,10.0,10.0,10.0,10.0,100.0,1
+t,moderate,t,3,Bernal Heights,37.745290000000004,-12.24098,House,Private room,2,2,1,1,Real Bed,1,108,99.0,10.0,10.0,10.0,10.0,10.0,10.0,86.0,1
+f,moderate,f,1,Mission,37.75078,-12.24152,Apartment,Entire home/apt,4,1,2,2,Real Bed,3,3,100.0,10.0,10.0,10.0,9.0,10.0,8.0,250.0,1
+f,moderate,f,1,South of Market,37.78076,-12.240789999999999,Apartment,Entire home/apt,4,1,2,2,Real Bed,30,61,83.0,9.0,10.0,10.0,10.0,7.0,9.0,150.0,1
+f,strict_14_with_grace_period,f,5,Outer Richmond,37.783840000000005,-12.24793,Apartment,Entire home/apt,3,1,1,2,Real Bed,31,4,75.0,7.0,7.0,10.0,8.0,10.0,7.0,100.0,0
+f,flexible,f,1,Western Addition,37.778079999999996,-12.24404,Guest suite,Entire home/apt,2,1,1,1,Real Bed,30,107,99.0,10.0,10.0,10.0,10.0,10.0,10.0,199.0,1
+t,strict_14_with_grace_period,t,2,Castro/Upper Market,37.76733,-12.24324,Condominium,Private room,1,1,1,1,Real Bed,1,284,99.0,10.0,10.0,10.0,10.0,10.0,10.0,105.0,1
+f,strict_14_with_grace_period,f,3,Potrero Hill,3.7758199999999995,-12.24024,Guest suite,Entire home/apt,4,2,2,2,Real Bed,4,54,99.0,10.0,10.0,10.0,10.0,10.0,10.0,195.0,1
+t,moderate,t,1,Outer Sunset,3.77631,-12.25032,House,Private room,2,1,1,1,Real Bed,1,44,96.0,10.0,10.0,10.0,10.0,10.0,10.0,85.0,1
+t,strict_14_with_grace_period,t,1,Castro/Upper Market,3.77659,-12.24347,Apartment,Entire home/apt,4,1,2,2,Real Bed,4,74,99.0,10.0,10.0,10.0,10.0,10.0,10.0,280.0,1
+f,strict_14_with_grace_period,f,1,Bernal Heights,3.77441,-12.24237,House,Entire home/apt,5,2,3,4,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,250.0,1
+f,strict_14_with_grace_period,f,87,Mission,3.7764300000000004,-1.22417,Apartment,Entire home/apt,3,1,0,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,100.0,1
+t,moderate,t,2,Noe Valley,37.74864,-12.24366,Apartment,Entire home/apt,4,1,0,2,Real Bed,2,139,100.0,10.0,10.0,10.0,10.0,10.0,9.0,200.0,1
+f,moderate,f,2,Western Addition,37.77738,-12.24312,House,Private room,1,1,1,1,Real Bed,2,188,91.0,10.0,9.0,10.0,10.0,10.0,9.0,83.0,1
+t,moderate,f,3,Marina,37.80515,-12.24357,Guest suite,Entire home/apt,2,1,1,1,Real Bed,2,118,98.0,10.0,10.0,10.0,10.0,10.0,10.0,240.0,1
+f,strict_14_with_grace_period,t,1,Haight Ashbury,37.77169,-1.2243899999999999,Apartment,Entire home/apt,4,1,2,2,Real Bed,30,19,92.0,9.0,9.0,10.0,9.0,10.0,9.0,349.0,1
+f,strict_14_with_grace_period,f,44,Bernal Heights,37.73612,-12.24211,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,2,100.0,10.0,9.0,10.0,10.0,10.0,9.0,87.0,1
+t,moderate,t,4,Bernal Heights,37.742940000000004,-12.24199,Condominium,Private room,2,1,1,1,Real Bed,4,99,96.0,10.0,10.0,10.0,10.0,9.0,9.0,60.0,1
+f,strict_14_with_grace_period,f,44,West of Twin Peaks,37.73855,-12.24452,Apartment,Entire home/apt,4,2,3,3,Real Bed,30,3,93.0,9.0,9.0,10.0,10.0,9.0,9.0,149.0,1
+f,strict_14_with_grace_period,t,1,Inner Sunset,37.75678,-12.246739999999999,Apartment,Private room,4,1,1,2,Real Bed,3,71,94.0,10.0,10.0,10.0,10.0,9.0,9.0,150.0,1
+f,strict_14_with_grace_period,t,87,Noe Valley,3.77523,-12.24359,Apartment,Entire home/apt,3,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,151.0,1
+t,strict_14_with_grace_period,f,12,Castro/Upper Market,3.77584,-12.24412,Apartment,Private room,1,4,1,1,Real Bed,30,15,97.0,9.0,10.0,10.0,10.0,9.0,10.0,68.0,1
+t,moderate,f,1,Potrero Hill,37.756370000000004,-12.24023,Guesthouse,Entire home/apt,4,1,1,1,Real Bed,30,40,99.0,10.0,10.0,10.0,10.0,10.0,10.0,149.0,1
+f,strict_14_with_grace_period,f,8,Outer Richmond,37.77478,-12.24885,Apartment,Entire home/apt,5,1,2,3,Real Bed,30,2,70.0,9.0,7.0,10.0,10.0,9.0,7.0,105.0,0
+f,strict_14_with_grace_period,f,44,Western Addition,37.77793,-12.24344,Apartment,Entire home/apt,4,2,2,2,Real Bed,30,2,70.0,7.0,9.0,9.0,8.0,9.0,8.0,153.0,0
+t,strict_14_with_grace_period,f,2,Noe Valley,37.75107,-12.24352,Apartment,Entire home/apt,2,1,1,1,Real Bed,2,32,99.0,10.0,10.0,10.0,10.0,10.0,10.0,274.0,1
+t,strict_14_with_grace_period,f,7,Russian Hill,37.79939,-12.240910000000001,Apartment,Private room,6,1,3,3,Real Bed,2,4,100.0,10.0,10.0,10.0,10.0,10.0,9.0,449.0,1
+t,moderate,f,1,Outer Mission,37.73226,-12.24387,House,Entire home/apt,2,1,1,1,Airbed,3,81,99.0,10.0,10.0,10.0,10.0,10.0,10.0,100.0,1
+f,strict_14_with_grace_period,f,1,Marina,37.79841,-12.24376,Apartment,Entire home/apt,4,1,2,2,Real Bed,2,22,93.0,10.0,10.0,9.0,10.0,10.0,9.0,350.0,1
+f,flexible,t,12,Financial District,37.78875,-12.240639999999999,Boutique hotel,Private room,2,0,1,1,Real Bed,32,15,85.0,9.0,8.0,10.0,10.0,10.0,9.0,60.0,1
+t,moderate,t,1,Western Addition,3.77823,-12.24346,Apartment,Private room,1,1,1,2,Real Bed,30,69,99.0,10.0,10.0,10.0,10.0,10.0,10.0,70.0,1
+f,flexible,t,12,Financial District,37.78895,-12.24048,Boutique hotel,Private room,2,0,1,1,Real Bed,32,38,85.0,9.0,9.0,10.0,10.0,10.0,9.0,59.0,1
+t,moderate,f,2,West of Twin Peaks,3.7740699999999996,-12.24518,Guest suite,Entire home/apt,2,1,1,1,Real Bed,2,143,97.0,10.0,10.0,10.0,10.0,9.0,9.0,147.0,1
+t,moderate,f,852,North Beach,37.80122,-12.241060000000001,Apartment,Entire home/apt,4,2,2,0,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,199.0,1
+f,flexible,f,1,Excelsior,37.718309999999995,-12.24349,House,Private room,2,1,1,1,Real Bed,1,4,100.0,10.0,10.0,10.0,10.0,10.0,10.0,85.0,1
+f,flexible,t,7,Downtown/Civic Center,37.78411,-12.24121,Hostel,Private room,2,8,1,1,Real Bed,1,97,78.0,9.0,8.0,9.0,9.0,7.0,8.0,70.0,0
+f,moderate,t,43,South of Market,37.772290000000005,-12.24164,House,Shared room,4,2,1,4,Real Bed,30,5,96.0,10.0,8.0,8.0,9.0,9.0,8.0,40.0,0
+f,strict_14_with_grace_period,f,2,South of Market,37.77897,-12.24035,Loft,Private room,2,1,1,1,Real Bed,1,49,95.0,10.0,9.0,10.0,10.0,9.0,9.0,156.0,1
+f,flexible,t,12,Financial District,37.78877,-12.24051,Boutique hotel,Private room,2,1,1,1,Real Bed,1,149,88.0,9.0,9.0,9.0,9.0,10.0,9.0,99.0,1
+t,moderate,t,2,Bernal Heights,37.73408,-12.24136,Townhouse,Private room,2,1,1,1,Real Bed,1,184,96.0,10.0,10.0,10.0,10.0,9.0,9.0,100.0,1
+t,strict_14_with_grace_period,t,1,Noe Valley,37.749829999999996,-12.24386,Apartment,Private room,2,1,1,1,Real Bed,2,134,99.0,10.0,10.0,10.0,10.0,9.0,10.0,72.0,1
+f,flexible,f,10,Nob Hill,37.79075,-12.24194,House,Private room,2,1,1,1,Real Bed,30,4,70.0,9.0,9.0,8.0,8.0,9.0,7.0,60.0,0
+f,flexible,t,106,Downtown/Civic Center,37.78946,-12.24118,Hotel,Private room,6,2,3,3,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,750.0,1
+t,moderate,t,1,North Beach,37.79834,-12.24039,Apartment,Entire home/apt,3,1,1,1,Real Bed,30,7,100.0,10.0,9.0,10.0,10.0,9.0,10.0,150.0,1
+f,flexible,t,2,Crocker Amazon,37.70841,-12.24508,House,Private room,2,1,1,2,Real Bed,1,44,96.0,10.0,10.0,10.0,10.0,9.0,9.0,85.0,1
+f,moderate,t,5,Bayview,37.72622,-12.23893,House,Private room,2,2,1,2,Real Bed,1,109,93.0,10.0,10.0,10.0,10.0,9.0,9.0,75.0,1
+t,moderate,f,2,Western Addition,37.78474,-12.244530000000001,House,Private room,2,1,1,1,Real Bed,7,9,98.0,10.0,9.0,10.0,10.0,10.0,9.0,355.0,1
+t,moderate,f,1,Inner Sunset,3.7759400000000003,-12.245989999999999,Apartment,Entire home/apt,4,1,2,2,Real Bed,30,30,98.0,10.0,10.0,10.0,10.0,10.0,9.0,329.0,1
+t,moderate,t,6,Western Addition,37.77095,-12.24355,House,Private room,2,1,1,1,Real Bed,1,67,95.0,10.0,9.0,10.0,10.0,10.0,10.0,110.0,1
+f,flexible,t,1,Excelsior,37.726620000000004,-12.24235,Apartment,Entire home/apt,4,1,2,2,Real Bed,30,7,89.0,9.0,8.0,9.0,9.0,9.0,9.0,150.0,0
+t,flexible,f,1,Outer Sunset,37.75212,-12.25084,Apartment,Entire home/apt,4,1,1,1,Real Bed,2,72,99.0,10.0,10.0,10.0,10.0,10.0,10.0,249.0,1
+f,strict_14_with_grace_period,t,1,South of Market,37.77812,-1.22396,Condominium,Entire home/apt,2,1,0,1,Real Bed,30,3,100.0,9.0,10.0,10.0,10.0,10.0,9.0,116.0,1
+f,strict_14_with_grace_period,f,11,Downtown/Civic Center,37.78713,-12.24117,Aparthotel,Private room,1,1,0,1,Real Bed,32,9,89.0,10.0,9.0,10.0,10.0,10.0,10.0,140.0,1
+f,strict_14_with_grace_period,f,1,Inner Sunset,3.77619,-12.24677,House,Entire home/apt,8,2,3,4,Real Bed,31,6,100.0,10.0,9.0,10.0,10.0,10.0,10.0,700.0,1
+f,strict_14_with_grace_period,t,3,Outer Sunset,37.754059999999996,-12.248610000000001,Apartment,Entire home/apt,6,1,2,3,Real Bed,2,116,94.0,9.0,9.0,10.0,10.0,9.0,9.0,209.0,1
+t,strict_14_with_grace_period,t,6,Bayview,3.7727199999999996,-12.237169999999999,House,Private room,1,1,1,1,Real Bed,1,100,96.0,10.0,10.0,10.0,10.0,9.0,10.0,50.0,1
+f,flexible,f,6,Downtown/Civic Center,37.78575,-12.24146,Apartment,Private room,2,1,0,1,Real Bed,2,49,92.0,9.0,9.0,10.0,10.0,9.0,9.0,95.0,1
+f,moderate,f,14,Bernal Heights,37.73868,-12.24129,House,Entire home/apt,5,1,2,3,Real Bed,30,18,97.0,10.0,10.0,10.0,10.0,10.0,9.0,300.0,1
+t,moderate,f,3,Bayview,37.73507,-1.2238799999999999,House,Private room,2,1,1,1,Real Bed,2,100,99.0,10.0,10.0,10.0,10.0,10.0,10.0,103.0,1
+t,moderate,f,1,Bernal Heights,37.73531,-12.24248,Guest suite,Private room,2,1,1,1,Real Bed,3,61,99.0,10.0,10.0,10.0,10.0,9.0,10.0,110.0,1
+t,strict_14_with_grace_period,t,1,Marina,37.80087,-12.242519999999999,House,Private room,2,1,1,1,Real Bed,2,86,98.0,10.0,9.0,10.0,10.0,10.0,10.0,80.0,1
+t,moderate,t,2,Seacliff,37.78038,-12.250589999999999,Guest suite,Entire home/apt,2,1,1,1,Real Bed,4,19,100.0,10.0,10.0,10.0,10.0,10.0,10.0,169.0,1
+t,strict_14_with_grace_period,f,1,Bayview,37.71192,-12.23887,Condominium,Private room,1,1,1,1,Real Bed,60,3,100.0,10.0,9.0,10.0,10.0,9.0,10.0,59.0,1
+t,moderate,t,3,Noe Valley,37.75182,-12.243739999999999,Guest suite,Entire home/apt,3,1,0,2,Real Bed,1,66,97.0,10.0,10.0,10.0,10.0,10.0,10.0,130.0,1
+t,moderate,f,3,Mission,37.75816,-12.24165,Condominium,Private room,4,1,1,2,Real Bed,1,21,96.0,10.0,10.0,10.0,10.0,10.0,9.0,140.0,1
+f,moderate,f,1,Inner Sunset,37.763459999999995,-12.24558,House,Entire home/apt,4,1,2,2,Real Bed,2,6,100.0,10.0,10.0,10.0,10.0,10.0,10.0,167.0,1
+f,strict_14_with_grace_period,f,33,South of Market,37.78911,-12.23907,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,193.0,1
+t,moderate,f,852,South of Market,37.77816,-12.23971,Apartment,Entire home/apt,4,1,2,2,Real Bed,30,1,80.0,8.0,8.0,10.0,2.0,10.0,6.0,195.0,0
+f,moderate,t,3,West of Twin Peaks,37.737159999999996,-1.22462,House,Private room,2,1,1,1,Real Bed,2,22,95.0,10.0,10.0,10.0,10.0,10.0,10.0,150.0,1
+f,strict_14_with_grace_period,f,3,Twin Peaks,37.74895,-12.244539999999999,Apartment,Entire home/apt,6,2,3,4,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,192.0,1
+f,strict_14_with_grace_period,f,3,Twin Peaks,3.7747599999999997,-12.24447,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,3,70.0,10.0,10.0,6.0,9.0,8.0,8.0,62.0,0
+f,moderate,f,2,Bayview,37.73095,-12.238719999999999,House,Private room,2,1,1,1,Real Bed,1,7,97.0,10.0,10.0,10.0,10.0,9.0,10.0,58.0,1
+t,moderate,f,1,Western Addition,3.7778099999999997,-12.24253,Condominium,Entire home/apt,2,1,2,2,Real Bed,6,14,100.0,10.0,10.0,10.0,10.0,10.0,10.0,315.0,1
+f,strict_14_with_grace_period,f,5,Marina,37.80362,-12.244480000000001,Condominium,Entire home/apt,4,2,2,2,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,234.0,1
+f,moderate,t,1,Excelsior,37.72381,-12.242360000000001,House,Entire home/apt,4,1,3,4,Real Bed,2,13,98.0,10.0,10.0,10.0,10.0,9.0,10.0,100.0,1
+t,strict_14_with_grace_period,f,5,Mission,37.750820000000004,-12.24075,Apartment,Private room,1,1,1,1,Real Bed,5,25,98.0,10.0,10.0,10.0,10.0,10.0,9.0,77.0,1
+t,strict_14_with_grace_period,t,1,Pacific Heights,37.79588,-12.24287,Apartment,Entire home/apt,6,2,3,4,Real Bed,30,35,99.0,10.0,10.0,10.0,10.0,10.0,10.0,595.0,1
+t,strict_14_with_grace_period,f,5,Chinatown,37.79252,-12.24081,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,8,100.0,10.0,10.0,10.0,10.0,10.0,10.0,100.0,1
+f,strict_14_with_grace_period,t,1199,South of Market,3.77794,-12.24136,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,2,100.0,10.0,10.0,10.0,10.0,9.0,9.0,147.0,1
+f,moderate,f,1,Western Addition,37.776920000000004,-12.24395,House,Entire home/apt,6,2,3,5,Real Bed,7,4,100.0,10.0,10.0,10.0,10.0,9.0,10.0,440.0,1
+f,strict_14_with_grace_period,f,10,Inner Sunset,37.764720000000004,-12.245280000000001,Apartment,Private room,1,3,1,2,Real Bed,32,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,89.0,1
+t,moderate,f,1,Parkside,37.74534,-12.24889,House,Private room,2,1,1,1,Real Bed,2,81,99.0,10.0,10.0,10.0,10.0,10.0,10.0,80.0,1
+f,strict_14_with_grace_period,f,44,Mission,37.76158,-12.24182,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,5,90.0,10.0,9.0,10.0,10.0,9.0,8.0,109.0,1
+t,moderate,t,2,Noe Valley,37.74985,-1.22432,House,Private room,2,1,1,1,Real Bed,2,57,98.0,10.0,10.0,10.0,10.0,10.0,10.0,85.0,1
+t,strict_14_with_grace_period,t,2,Financial District,37.79011,-12.240680000000001,Serviced apartment,Entire home/apt,2,1,0,1,Real Bed,2,20,98.0,10.0,10.0,10.0,10.0,10.0,9.0,75.0,1
+t,moderate,f,1,Pacific Heights,37.79629,-12.243269999999999,House,Private room,1,1,1,1,Real Bed,2,81,99.0,10.0,10.0,10.0,10.0,10.0,10.0,200.0,1
+t,moderate,f,2,Nob Hill,37.79146,-1.22417,Apartment,Entire home/apt,10,3,4,5,Real Bed,30,96,97.0,10.0,10.0,10.0,10.0,10.0,9.0,495.0,1
+t,strict_14_with_grace_period,f,3,Bayview,37.73522,-12.23889,House,Entire home/apt,5,1,2,2,Real Bed,4,3,100.0,10.0,10.0,10.0,10.0,9.0,10.0,300.0,1
+f,strict_14_with_grace_period,f,10,Lakeshore,37.73048,-12.24921,Guesthouse,Entire home/apt,8,2,2,4,Real Bed,1,52,91.0,10.0,9.0,10.0,10.0,9.0,9.0,150.0,1
+f,flexible,t,1,Outer Sunset,37.75114,-12.24949,House,Entire home/apt,8,3,4,4,Real Bed,4,2,90.0,10.0,7.0,10.0,10.0,8.0,10.0,280.0,1
+f,moderate,t,1,Noe Valley,3.77523,-12.24267,Apartment,Entire home/apt,3,1,1,2,Real Bed,30,7,100.0,10.0,10.0,10.0,10.0,10.0,10.0,151.0,1
+f,moderate,t,1,Outer Mission,37.73271,-12.24475,House,Entire home/apt,6,1,2,4,Real Bed,30,50,98.0,10.0,10.0,10.0,10.0,10.0,10.0,250.0,1
+f,strict_14_with_grace_period,t,14,Lakeshore,37.731120000000004,-12.24876,House,Private room,1,1,1,1,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,67.0,1
+f,moderate,f,1,Presidio Heights,37.78322,-12.24505,House,Entire home/apt,6,1,2,3,Real Bed,3,43,98.0,10.0,10.0,10.0,10.0,9.0,10.0,249.0,1
+t,strict_14_with_grace_period,f,5,Chinatown,37.79291,-1.2240799999999998,Apartment,Entire home/apt,4,1,0,2,Real Bed,30,2,100.0,10.0,10.0,10.0,10.0,10.0,9.0,105.0,1
+t,flexible,f,1,Bernal Heights,37.74568,-12.24112,Apartment,Entire home/apt,4,1,2,2,Real Bed,30,61,100.0,10.0,10.0,10.0,10.0,10.0,9.0,220.0,1
+f,flexible,f,1,Parkside,37.73859,-12.24723,House,Entire home/apt,6,3,3,4,Real Bed,5,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,410.0,1
+f,strict_14_with_grace_period,f,35,Financial District,37.79611,-12.24051,Apartment,Entire home/apt,2,1,1,2,Real Bed,30,1,80.0,10.0,10.0,10.0,10.0,8.0,8.0,140.0,1
+f,moderate,f,1,Pacific Heights,37.79005,-12.24308,Apartment,Entire home/apt,2,1,1,1,Real Bed,31,27,98.0,10.0,10.0,10.0,10.0,10.0,10.0,150.0,1
+f,strict_14_with_grace_period,t,14,Lakeshore,37.73325,-12.24871,House,Private room,2,1,1,1,Real Bed,30,2,60.0,6.0,6.0,10.0,10.0,10.0,6.0,45.0,0
+f,strict_14_with_grace_period,f,33,Western Addition,37.78691,-12.243889999999999,Townhouse,Entire home/apt,6,1,3,3,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,206.0,1
+t,flexible,f,3,South of Market,37.77746,-12.24083,Condominium,Entire home/apt,2,1,1,1,Real Bed,3,10,96.0,10.0,10.0,9.0,10.0,9.0,9.0,249.0,1
+t,flexible,t,2,Pacific Heights,37.79364,-12.24231,Guest suite,Entire home/apt,4,1,1,2,Real Bed,1,151,99.0,10.0,10.0,10.0,10.0,10.0,10.0,299.0,1
+t,moderate,t,4,Outer Richmond,37.77233,-12.25026,Apartment,Private room,2,1,1,1,Real Bed,1,63,96.0,10.0,10.0,10.0,10.0,10.0,10.0,73.0,1
+t,strict_14_with_grace_period,f,4,Marina,37.80389,-12.244480000000001,Apartment,Private room,1,1,1,1,Real Bed,2,4,95.0,10.0,10.0,10.0,10.0,10.0,9.0,155.0,1
+f,strict_14_with_grace_period,t,1199,South of Market,37.77794,-12.24133,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,6.0,10.0,147.0,1
+f,moderate,f,1,Potrero Hill,37.76518,-1.22397,Apartment,Entire home/apt,4,1,2,2,Real Bed,30,35,92.0,9.0,9.0,10.0,10.0,9.0,9.0,143.0,1
+t,super_strict_30,f,82,Downtown/Civic Center,37.78877,-12.241060000000001,Serviced apartment,Entire home/apt,4,1,0,2,Real Bed,1,13,100.0,10.0,10.0,10.0,10.0,10.0,9.0,239.0,1
+t,strict_14_with_grace_period,f,2,South of Market,37.78182,-1.2239799999999998,Apartment,Private room,1,1,1,1,Real Bed,5,52,99.0,10.0,10.0,10.0,10.0,9.0,10.0,87.0,1
+f,strict_14_with_grace_period,t,1,Inner Sunset,37.754690000000004,-1.22465,Guest suite,Entire home/apt,2,1,1,1,Real Bed,5,26,95.0,10.0,10.0,10.0,10.0,10.0,9.0,99.0,1
+f,flexible,f,1,West of Twin Peaks,37.739979999999996,-12.246960000000001,Guest suite,Private room,2,1,1,1,Real Bed,1,22,94.0,10.0,10.0,10.0,10.0,10.0,10.0,125.0,1
+f,flexible,t,2,Excelsior,37.71856,-12.243139999999999,Apartment,Private room,2,1,1,1,Real Bed,30,11,95.0,10.0,9.0,9.0,10.0,9.0,9.0,72.0,1
+f,flexible,t,12,Visitacion Valley,37.71548,-12.24307,Townhouse,Private room,2,3,1,1,Real Bed,1,52,98.0,10.0,10.0,10.0,10.0,9.0,10.0,58.0,1
+t,moderate,f,852,North Beach,37.804629999999996,-12.24063,Condominium,Entire home/apt,2,1,1,1,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,8.0,166.0,1
+t,moderate,t,3,Potrero Hill,37.75931,-12.23967,House,Private room,6,1,3,3,Real Bed,1,20,100.0,10.0,10.0,10.0,10.0,10.0,10.0,350.0,1
+t,super_strict_30,f,82,Downtown/Civic Center,37.787459999999996,-12.24093,Condominium,Entire home/apt,4,1,0,2,Real Bed,1,4,95.0,10.0,10.0,10.0,10.0,10.0,10.0,265.0,1
+t,strict_14_with_grace_period,f,6,Financial District,37.79118,-1.22395,Serviced apartment,Entire home/apt,4,1,1,1,Real Bed,180,11,98.0,10.0,10.0,10.0,10.0,10.0,10.0,300.0,1
+t,moderate,t,1,Castro/Upper Market,37.76101,-12.24435,Apartment,Entire home/apt,4,1,2,2,Real Bed,30,9,98.0,10.0,10.0,10.0,10.0,10.0,9.0,250.0,1
+t,strict_14_with_grace_period,t,2,Downtown/Civic Center,0.37788,-12.24182,Apartment,Private room,4,1,1,2,Real Bed,1,82,97.0,10.0,10.0,10.0,10.0,10.0,10.0,147.0,1
+f,flexible,f,1,Russian Hill,37.79817,-12.24186,Apartment,Private room,2,2,1,1,Real Bed,1,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,240.0,1
+f,flexible,f,5,Inner Richmond,3.77832,-12.246189999999999,House,Private room,4,2,1,2,Real Bed,1,134,92.0,10.0,9.0,10.0,9.0,10.0,9.0,80.0,1
+f,flexible,f,43,South of Market,37.773920000000004,-12.241660000000001,House,Private room,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,73.0,1
+f,flexible,t,1,Inner Richmond,3.77791,-1.22472,Guest suite,Entire home/apt,3,1,1,2,Real Bed,2,68,91.0,10.0,10.0,10.0,10.0,9.0,9.0,84.0,1
+t,moderate,t,35,Haight Ashbury,37.76858,-12.24511,Hostel,Private room,2,5,1,1,Real Bed,1,25,90.0,9.0,8.0,10.0,10.0,10.0,9.0,100.0,1
+t,moderate,t,35,Haight Ashbury,37.76873,-12.24509,Hostel,Shared room,1,2,1,1,Real Bed,1,57,97.0,10.0,9.0,10.0,10.0,10.0,10.0,50.0,1
+f,strict_14_with_grace_period,t,2,Noe Valley,37.74217,-12.24291,Apartment,Private room,2,1,1,1,Real Bed,2,27,100.0,10.0,10.0,10.0,10.0,10.0,10.0,90.0,1
+t,moderate,t,2,Western Addition,37.77408,-12.24272,Apartment,Entire home/apt,4,1,2,2,Real Bed,2,10,96.0,10.0,10.0,10.0,10.0,10.0,9.0,490.0,1
+t,moderate,t,2,Castro/Upper Market,37.75877,-12.24319,Apartment,Entire home/apt,3,1,1,1,Real Bed,30,3,100.0,10.0,10.0,10.0,10.0,10.0,10.0,179.0,1
+t,moderate,f,1,Bernal Heights,0.37748000000000004,-1.22413,Apartment,Entire home/apt,4,1,2,2,Real Bed,2,22,97.0,10.0,10.0,10.0,10.0,10.0,10.0,225.0,1
+t,moderate,f,2,Potrero Hill,37.75763,-1.2238799999999999,Condominium,Private room,2,1,1,1,Real Bed,4,5,100.0,10.0,9.0,10.0,10.0,10.0,10.0,140.0,1
+t,moderate,t,1,Excelsior,37.728629999999995,-12.242460000000001,Guest suite,Entire home/apt,4,1,2,2,Real Bed,2,36,99.0,10.0,10.0,10.0,10.0,9.0,10.0,150.0,1
+f,strict_14_with_grace_period,f,1,Haight Ashbury,37.77571,-12.24452,Condominium,Entire home/apt,4,1,1,2,Real Bed,30,2,100.0,10.0,10.0,10.0,9.0,10.0,10.0,150.0,1
+f,strict_14_with_grace_period,f,64,Castro/Upper Market,37.76005,-0.0012243,Apartment,Entire home/apt,3,1,1,1,Real Bed,30,3,100.0,10.0,10.0,10.0,10.0,10.0,9.0,142.0,1
+f,strict_14_with_grace_period,f,87,Downtown/Civic Center,37.78413,-12.24152,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,1,100.0,10.0,8.0,10.0,10.0,8.0,10.0,79.0,1
+f,moderate,f,1,Bernal Heights,37.74553,-0.0012241,House,Entire home/apt,4,2,2,2,Real Bed,30,16,98.0,10.0,10.0,10.0,10.0,10.0,9.0,175.0,1
+f,strict_14_with_grace_period,f,33,Presidio Heights,37.78738,-12.24502,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,131.0,1
+f,moderate,f,1,Bernal Heights,37.747440000000005,-1.22412,Apartment,Entire home/apt,4,2,2,2,Real Bed,30,5,96.0,10.0,10.0,10.0,10.0,10.0,10.0,250.0,1
+f,moderate,t,1,South of Market,37.77575,-12.24124,Loft,Entire home/apt,2,1,1,1,Real Bed,1,21,95.0,10.0,9.0,10.0,10.0,9.0,9.0,150.0,1
+t,moderate,f,1,Inner Sunset,37.75254,-0.0012247,Guest suite,Entire home/apt,2,1,1,1,Real Bed,3,58,98.0,10.0,10.0,10.0,10.0,10.0,10.0,105.0,1
+t,moderate,f,3,Outer Mission,3.77101,-12.245230000000001,House,Private room,1,1,1,1,Real Bed,5,24,98.0,10.0,10.0,10.0,10.0,9.0,9.0,78.0,1
+t,moderate,f,852,Mission,3.77524,-12.24135,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,135.0,1
+t,flexible,t,1,South of Market,37.78305,-12.23985,Apartment,Private room,1,1,1,1,Real Bed,1,94,98.0,10.0,10.0,10.0,10.0,10.0,10.0,199.0,1
+t,moderate,t,1,Inner Richmond,37.78535,-12.246830000000001,Guest suite,Entire home/apt,4,1,1,2,Real Bed,3,41,99.0,10.0,10.0,10.0,10.0,10.0,10.0,195.0,1
+f,strict_14_with_grace_period,f,87,Downtown/Civic Center,37.78483,-12.241660000000001,Apartment,Entire home/apt,3,1,1,2,Real Bed,30,2,80.0,10.0,10.0,10.0,10.0,4.0,8.0,97.0,0
+t,moderate,f,1,Outer Richmond,37.77823,-12.25036,Guest suite,Entire home/apt,4,1,1,1,Real Bed,2,27,98.0,10.0,10.0,10.0,10.0,9.0,10.0,229.0,1
+t,moderate,f,2,Bernal Heights,37.746559999999995,-12.24093,House,Entire home/apt,7,3,3,3,Real Bed,4,1,60.0,8.0,10.0,8.0,2.0,10.0,6.0,550.0,0
+t,moderate,f,852,Mission,37.754020000000004,-12.24138,Apartment,Entire home/apt,6,1,3,3,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,223.0,1
+f,flexible,f,2,Western Addition,37.77463,-12.24368,Guesthouse,Entire home/apt,6,2,3,3,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,595.0,1
+t,moderate,f,1,Western Addition,37.77308,-12.24311,Apartment,Entire home/apt,2,2,1,2,Real Bed,30,27,96.0,10.0,10.0,10.0,10.0,10.0,9.0,299.0,1
+f,flexible,t,1,Outer Richmond,37.77346,-12.24802,Guest suite,Entire home/apt,2,1,0,1,Real Bed,3,83,93.0,10.0,9.0,10.0,10.0,9.0,9.0,95.0,1
+f,moderate,f,1,Castro/Upper Market,37.76755,-12.24313,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,49,95.0,10.0,10.0,10.0,10.0,10.0,9.0,175.0,1
+f,flexible,t,1,Marina,37.80236,-12.24259,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,4,100.0,10.0,10.0,10.0,9.0,10.0,10.0,200.0,1
+t,strict_14_with_grace_period,t,2,Castro/Upper Market,37.757220000000004,-12.24393,House,Entire home/apt,5,3,3,3,Real Bed,2,21,100.0,10.0,10.0,10.0,10.0,10.0,9.0,523.0,1
+f,strict_14_with_grace_period,t,1,Mission,37.76747,-12.24233,Condominium,Private room,2,1,1,3,Real Bed,1,3,73.0,7.0,7.0,7.0,7.0,9.0,7.0,479.0,0
+f,flexible,t,1,Pacific Heights,37.78946,-1.22443,Apartment,Private room,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,225.0,1
+f,flexible,f,1,Inner Sunset,3.7765800000000005,-12.245510000000001,Apartment,Private room,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,86.0,1
+f,flexible,t,4,Nob Hill,37.79547,-12.24174,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,3,93.0,9.0,9.0,10.0,9.0,10.0,8.0,88.0,1
+f,strict_14_with_grace_period,t,2,Haight Ashbury,37.76637,-12.24475,Guesthouse,Entire home/apt,4,1,2,3,Real Bed,30,1,100.0,10.0,8.0,10.0,10.0,10.0,8.0,200.0,1
+t,strict_14_with_grace_period,f,200,Downtown/Civic Center,37.78836,-12.24121,Condominium,Entire home/apt,4,1,1,2,Real Bed,3,13,100.0,10.0,10.0,10.0,10.0,10.0,9.0,229.0,1
+t,strict_14_with_grace_period,t,4,Nob Hill,37.79546,-12.24111,Condominium,Entire home/apt,6,2,3,3,Real Bed,2,11,98.0,10.0,10.0,10.0,9.0,10.0,9.0,449.0,1
+f,strict_14_with_grace_period,t,1,Potrero Hill,37.75862,-12.23976,House,Private room,3,1,0,2,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,80.0,1
+f,flexible,t,106,Downtown/Civic Center,37.78795,-12.24117,Serviced apartment,Entire home/apt,4,1,1,4,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,480.0,1
+f,flexible,t,23,Western Addition,37.77433,-12.24323,Apartment,Entire home/apt,5,1,2,4,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,140.0,1
+f,flexible,f,8,Parkside,37.74582,-12.24885,Apartment,Entire home/apt,6,1,1,3,Real Bed,30,17,95.0,10.0,10.0,10.0,9.0,9.0,9.0,89.0,1
+f,moderate,t,1,Outer Sunset,37.75025,-12.250119999999999,Guest suite,Entire home/apt,4,1,1,3,Real Bed,30,29,94.0,10.0,10.0,10.0,10.0,9.0,10.0,138.0,1
+t,moderate,t,4,Visitacion Valley,37.72189,-12.24037,Guest suite,Private room,2,1,1,1,Real Bed,2,88,98.0,10.0,10.0,10.0,10.0,9.0,10.0,90.0,1
+f,flexible,f,4,Nob Hill,37.795790000000004,-12.24185,Apartment,Entire home/apt,4,1,2,2,Real Bed,30,1,98.0,10.0,10.0,10.0,10.0,10.0,10.0,170.0,1
+f,flexible,t,1,Castro/Upper Market,37.75731,-12.24333,Apartment,Private room,2,1,1,2,Real Bed,1,99,100.0,10.0,10.0,10.0,10.0,10.0,10.0,100.0,1
+f,flexible,f,1,South of Market,37.77835,-12.24048,Loft,Private room,1,1,1,1,Real Bed,2,7,100.0,10.0,10.0,10.0,10.0,10.0,9.0,349.0,1
+f,strict_14_with_grace_period,f,1,Bernal Heights,3.77333,-12.24198,House,Entire home/apt,6,2,3,3,Real Bed,30,36,99.0,10.0,10.0,10.0,10.0,9.0,10.0,425.0,1
+f,flexible,t,23,Haight Ashbury,37.76876,-1.22443,Apartment,Entire home/apt,4,1,1,2,Real Bed,30,1,80.0,10.0,4.0,10.0,10.0,8.0,8.0,105.0,0
+f,flexible,t,23,Haight Ashbury,37.77004,-1.22443,Apartment,Entire home/apt,5,1,2,3,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,115.0,1
+f,strict_14_with_grace_period,t,14,Inner Sunset,37.76482,-12.24728,Apartment,Private room,2,1,1,1,Real Bed,30,2,90.0,9.0,9.0,10.0,10.0,10.0,10.0,58.0,1
+f,flexible,f,64,Chinatown,37.79095,-12.24082,Apartment,Entire home/apt,3,1,1,1,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,8.0,140.0,1
+f,flexible,f,6,Outer Mission,3.7713699999999997,-12.24505,House,Private room,1,1,1,1,Real Bed,30,2,80.0,8.0,8.0,9.0,9.0,7.0,8.0,99.0,0
+t,strict_14_with_grace_period,f,2,Mission,37.75725,-12.24093,Loft,Private room,2,1,1,1,Real Bed,3,18,99.0,10.0,10.0,10.0,10.0,10.0,10.0,150.0,1
+f,moderate,f,1,Haight Ashbury,37.76572,-1.2244899999999999,Apartment,Entire home/apt,8,1,3,3,Real Bed,2,1,100.0,10.0,10.0,10.0,10.0,10.0,8.0,400.0,1
+f,moderate,f,21,Western Addition,37.77255,-12.242389999999999,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,110.0,1
+t,strict_14_with_grace_period,t,2,Potrero Hill,3.7760300000000004,-12.24019,Condominium,Private room,8,2,4,4,Real Bed,2,32,100.0,10.0,10.0,10.0,10.0,10.0,10.0,425.0,1
+t,moderate,f,2,Castro/Upper Market,37.761829999999996,-12.24413,Apartment,Entire home/apt,6,2,3,3,Real Bed,3,25,99.0,10.0,10.0,10.0,10.0,10.0,10.0,499.0,1
+t,flexible,t,2,Mission,37.752340000000004,-0.0012241,House,Private room,2,1,1,2,Real Bed,31,3,93.0,10.0,10.0,10.0,10.0,10.0,9.0,55.0,1
+f,moderate,t,1,Haight Ashbury,37.767340000000004,-12.24484,Condominium,Entire home/apt,4,1,1,2,Real Bed,3,6,100.0,10.0,10.0,10.0,10.0,10.0,9.0,250.0,1
+f,moderate,f,2,Mission,37.75781,-12.24237,Apartment,Private room,1,1,1,1,Real Bed,1,30,100.0,10.0,10.0,10.0,10.0,10.0,10.0,100.0,1
+f,flexible,t,1,Pacific Heights,37.79518,-12.24385,House,Entire home/apt,6,3,3,4,Real Bed,4,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,750.0,1
+t,strict_14_with_grace_period,f,89,Downtown/Civic Center,37.78819,-12.241010000000001,Hotel,Private room,4,1,0,2,Real Bed,1,7,97.0,10.0,10.0,10.0,10.0,10.0,9.0,235.0,1
+f,flexible,f,2,Outer Richmond,37.778529999999996,-12.24872,Condominium,Private room,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,100.0,1
+f,flexible,t,2,Glen Park,3.77369,-12.24313,Guesthouse,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,140.0,1
+f,flexible,t,53,Downtown/Civic Center,37.78585,-12.24077,Boutique hotel,Private room,2,1,0,1,Real Bed,1,2,80.0,10.0,9.0,10.0,9.0,10.0,10.0,79.0,1
+f,flexible,t,53,Downtown/Civic Center,37.786590000000004,-1.22409,Boutique hotel,Private room,2,1,0,1,Real Bed,1,3,87.0,10.0,9.0,10.0,10.0,10.0,10.0,79.0,1
+f,flexible,t,53,Downtown/Civic Center,37.78601,-12.240730000000001,Boutique hotel,Private room,2,1,0,1,Real Bed,1,3,100.0,10.0,10.0,10.0,10.0,9.0,10.0,79.0,1
+f,strict_14_with_grace_period,f,87,Downtown/Civic Center,37.78474,-12.24162,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,1,80.0,10.0,10.0,10.0,10.0,6.0,8.0,80.0,1
+f,strict_14_with_grace_period,t,3,Mission,37.75286,-12.240839999999999,House,Private room,2,1,1,1,Real Bed,1,35,98.0,10.0,10.0,10.0,10.0,10.0,10.0,97.0,1
+t,moderate,f,3,Castro/Upper Market,37.758309999999994,-12.243139999999999,Guest suite,Entire home/apt,2,1,0,1,Real Bed,3,53,99.0,10.0,10.0,10.0,10.0,10.0,10.0,145.0,1
+t,strict_14_with_grace_period,t,3,Western Addition,37.77864,-12.24382,House,Entire home/apt,8,2,4,4,Real Bed,2,15,96.0,10.0,10.0,10.0,10.0,10.0,10.0,650.0,1
+f,strict_14_with_grace_period,f,87,Mission,37.764590000000005,-12.24191,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,86.0,1
+f,flexible,t,23,Haight Ashbury,3.7764900000000003,-12.24511,Apartment,Entire home/apt,3,1,1,2,Real Bed,30,1,60.0,8.0,8.0,10.0,10.0,10.0,8.0,105.0,0
+f,flexible,t,53,Downtown/Civic Center,37.78803,-12.24077,Boutique hotel,Private room,2,1,0,1,Real Bed,1,4,75.0,8.0,8.0,10.0,10.0,10.0,7.0,69.0,0
+t,strict_14_with_grace_period,f,2,Noe Valley,37.74205,-12.243030000000001,Guest suite,Entire home/apt,3,1,1,1,Real Bed,1,69,100.0,10.0,10.0,10.0,10.0,10.0,10.0,125.0,1
+f,strict_14_with_grace_period,t,6,Western Addition,37.779070000000004,-12.24393,House,Private room,4,1,1,2,Real Bed,1,46,93.0,10.0,10.0,10.0,10.0,10.0,9.0,175.0,1
+f,flexible,t,53,Downtown/Civic Center,37.786640000000006,-12.240910000000001,Boutique hotel,Private room,2,1,0,2,Real Bed,1,2,80.0,9.0,6.0,10.0,10.0,10.0,9.0,75.0,0
+f,flexible,t,53,Downtown/Civic Center,37.787240000000004,-12.240860000000001,Boutique hotel,Private room,2,1,0,2,Real Bed,1,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,75.0,1
+t,moderate,f,2,Russian Hill,37.79907,-12.24113,House,Private room,4,1,2,2,Real Bed,2,29,99.0,10.0,10.0,10.0,10.0,10.0,10.0,170.0,1
+t,flexible,t,1,Bernal Heights,37.746320000000004,-12.24151,Guest suite,Private room,2,1,1,1,Real Bed,2,66,98.0,10.0,10.0,10.0,10.0,10.0,10.0,80.0,1
+t,strict_14_with_grace_period,f,2,Outer Richmond,37.775909999999996,-1.22502,House,Entire home/apt,2,1,1,1,Real Bed,2,2,100.0,10.0,10.0,10.0,10.0,10.0,10.0,99.0,1
+f,strict_14_with_grace_period,f,67,Downtown/Civic Center,37.77973,-12.24231,Boutique hotel,Private room,4,1,1,2,Real Bed,1,2,100.0,10.0,10.0,10.0,10.0,9.0,10.0,199.0,1
+f,strict_14_with_grace_period,f,64,Mission,37.758759999999995,-12.242360000000001,Apartment,Entire home/apt,3,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,156.0,1
+f,moderate,f,2,Chinatown,37.79402,-12.24089,Apartment,Private room,4,1,2,3,Real Bed,7,4,85.0,10.0,10.0,7.0,10.0,10.0,8.0,350.0,1
+f,moderate,t,5,Outer Richmond,37.77878,-12.25077,House,Private room,2,1,1,1,Real Bed,30,18,91.0,10.0,10.0,10.0,10.0,10.0,9.0,89.0,1
+t,moderate,f,852,Haight Ashbury,37.76402,-12.24487,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,2,90.0,10.0,10.0,10.0,10.0,10.0,7.0,159.0,1
+f,flexible,f,11,South of Market,37.78865,-12.23892,Serviced apartment,Entire home/apt,2,1,0,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,164.0,1
+f,moderate,t,1,Downtown/Civic Center,37.788940000000004,-12.24174,Apartment,Entire home/apt,6,1,3,3,Real Bed,1,57,92.0,9.0,9.0,10.0,10.0,9.0,9.0,250.0,1
+f,moderate,f,483,South of Market,37.77363,-12.23937,Apartment,Entire home/apt,3,1,1,2,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,189.0,1
+f,flexible,f,25,North Beach,37.79894,-12.24044,Hostel,Private room,3,1,1,2,Real Bed,1,3,93.0,9.0,9.0,9.0,9.0,9.0,9.0,555.0,1
+t,moderate,f,1,Noe Valley,37.748509999999996,-12.24422,Guest suite,Entire home/apt,2,1,1,1,Real Bed,2,22,97.0,10.0,10.0,10.0,10.0,10.0,10.0,145.0,1
+t,moderate,f,852,Nob Hill,37.79103,-12.24093,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,182.0,1
+t,moderate,f,852,Nob Hill,37.79161,-12.241060000000001,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,2,80.0,8.0,9.0,9.0,10.0,10.0,10.0,172.0,1
+t,moderate,f,1,Inner Richmond,37.77839,-12.24538,Apartment,Private room,3,1,1,2,Real Bed,2,34,100.0,10.0,10.0,10.0,10.0,10.0,10.0,150.0,1
+f,strict_14_with_grace_period,t,4,Inner Richmond,37.78353,-12.24703,Apartment,Private room,2,1,1,1,Real Bed,1,55,91.0,10.0,9.0,10.0,10.0,10.0,9.0,65.0,1
+f,strict_14_with_grace_period,f,64,Russian Hill,37.80227,-12.24222,Apartment,Entire home/apt,3,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,170.0,1
+t,flexible,t,37,Chinatown,37.790279999999996,-12.24081,Boutique hotel,Private room,2,1,1,1,Real Bed,2,2,100.0,10.0,10.0,10.0,10.0,10.0,9.0,250.0,1
+f,strict_14_with_grace_period,f,799,South of Market,37.77409,-12.23902,Apartment,Entire home/apt,3,1,1,2,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,149.0,1
+t,moderate,t,1,Mission,37.75714,-12.24206,House,Private room,2,1,1,1,Real Bed,1,48,100.0,10.0,10.0,10.0,10.0,10.0,9.0,100.0,1
+f,moderate,t,1,South of Market,37.77043,-12.24063,Apartment,Entire home/apt,3,1,0,3,Real Bed,2,1,100.0,10.0,10.0,10.0,10.0,8.0,10.0,190.0,1
+t,moderate,t,1,Twin Peaks,37.752759999999995,-12.24505,House,Entire home/apt,8,2,3,5,Real Bed,2,29,98.0,10.0,10.0,10.0,10.0,10.0,9.0,549.0,1
+f,flexible,t,1,Western Addition,37.778690000000005,-12.24375,Apartment,Private room,2,1,1,1,Real Bed,31,1,98.0,10.0,10.0,10.0,10.0,10.0,10.0,104.0,1
+t,moderate,f,852,Downtown/Civic Center,37.78738,-12.24173,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,182.0,1
+t,moderate,f,41,Mission,37.76242,-1.22419,Condominium,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,172.0,1
+f,flexible,f,2,Crocker Amazon,3.7709699999999997,-12.24377,House,Private room,2,1,1,1,Real Bed,1,7,91.0,10.0,9.0,10.0,10.0,9.0,9.0,90.0,1
+f,strict_14_with_grace_period,t,1,Western Addition,37.77146,-12.24319,Apartment,Entire home/apt,3,1,2,1,Real Bed,2,5,100.0,10.0,10.0,10.0,10.0,10.0,10.0,140.0,1
+f,moderate,f,1,South of Market,3.77724,-1.22421,Apartment,Entire home/apt,2,1,1,1,Real Bed,4,9,98.0,10.0,10.0,10.0,10.0,9.0,10.0,250.0,1
+t,strict_14_with_grace_period,f,2,Bayview,37.73238,-1.22394,House,Entire home/apt,6,2,3,3,Real Bed,3,3,100.0,10.0,9.0,10.0,10.0,10.0,10.0,300.0,1
+f,strict_14_with_grace_period,t,1199,South of Market,37.78674,-12.23908,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,160.0,1
+t,moderate,f,4,Visitacion Valley,37.71678,-12.24035,House,Entire home/apt,6,1,2,3,Real Bed,1,16,95.0,10.0,10.0,10.0,10.0,9.0,9.0,300.0,1
+f,strict_14_with_grace_period,f,2,Twin Peaks,37.75907,-12.24465,Condominium,Entire home/apt,3,1,1,2,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,183.0,1
+t,moderate,f,852,Western Addition,37.77603,-12.24315,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,143.0,1
+f,flexible,f,1,Downtown/Civic Center,37.78822,-12.24168,Apartment,Entire home/apt,4,1,1,1,Real Bed,45,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,129.0,1
+f,flexible,f,3,Pacific Heights,37.79267,-12.24244,Apartment,Entire home/apt,1,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,84.0,1
+t,flexible,t,37,Nob Hill,37.79058,-1.22409,Boutique hotel,Private room,2,1,1,1,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,250.0,1
+t,flexible,t,3,Parkside,37.74439,-12.249139999999999,House,Private room,2,1,1,1,Real Bed,2,41,98.0,10.0,10.0,10.0,10.0,9.0,10.0,69.0,1
+t,moderate,f,1,Mission,3.77621,-12.241660000000001,Guest suite,Entire home/apt,4,1,2,2,Real Bed,1,44,97.0,10.0,10.0,10.0,10.0,10.0,9.0,335.0,1
+f,flexible,t,2,Marina,37.80291,-12.24397,House,Entire home/apt,6,1,2,2,Real Bed,30,2,100.0,10.0,9.0,10.0,10.0,10.0,8.0,200.0,1
+t,moderate,f,852,Mission,37.75849,-12.24147,Condominium,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,172.0,1
+f,flexible,t,1,Marina,37.79789,-12.24385,Bed and breakfast,Private room,2,1,0,1,Real Bed,3,27,94.0,10.0,8.0,10.0,10.0,10.0,9.0,86.0,1
+t,moderate,f,4,Inner Richmond,3.7780400000000003,-12.246039999999999,Condominium,Entire home/apt,6,2,3,4,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,399.0,1
+t,moderate,t,4,Pacific Heights,37.79681,-12.242460000000001,Condominium,Private room,2,1,1,1,Real Bed,2,25,94.0,10.0,10.0,10.0,10.0,10.0,10.0,129.0,1
+t,strict_14_with_grace_period,t,10,Downtown/Civic Center,37.78866,-12.24125,Apartment,Entire home/apt,4,1,1,2,Real Bed,4,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,1200.0,1
+f,strict_14_with_grace_period,f,1,South of Market,37.78054,-12.23896,Apartment,Entire home/apt,2,1,0,1,Real Bed,4,6,80.0,9.0,7.0,10.0,10.0,9.0,8.0,145.0,0
+f,moderate,f,2,Inner Richmond,37.78269,-12.24687,Guesthouse,Entire home/apt,3,1,1,2,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,110.0,1
+t,strict_14_with_grace_period,f,1,Inner Sunset,37.76531,-12.24624,Apartment,Entire home/apt,2,1,0,1,Real Bed,3,32,99.0,10.0,10.0,10.0,10.0,10.0,10.0,149.0,1
+t,flexible,t,37,Downtown/Civic Center,37.78975,-12.240739999999999,Boutique hotel,Private room,4,1,1,2,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,300.0,1
+t,flexible,t,37,Financial District,37.79016,-12.24059,Boutique hotel,Entire home/apt,2,1,1,1,Real Bed,2,4,90.0,10.0,9.0,10.0,10.0,10.0,9.0,250.0,1
+f,strict_14_with_grace_period,f,1,South of Market,37.78049,-12.23968,Condominium,Entire home/apt,1,1,1,1,Real Bed,7,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,275.0,1
+t,moderate,f,2,Excelsior,37.72875,-12.24175,House,Entire home/apt,2,2,1,1,Real Bed,3,3,93.0,10.0,10.0,9.0,10.0,9.0,8.0,95.0,1
+t,moderate,f,4,Inner Richmond,37.77994,-12.24535,House,Private room,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,110.0,1
+t,moderate,f,852,Western Addition,37.78873,-12.24306,Apartment,Entire home/apt,6,2,3,3,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,283.0,1
+f,moderate,f,1,Mission,3.7758599999999998,-12.24163,House,Entire home/apt,5,2,3,3,Real Bed,1,7,100.0,10.0,10.0,10.0,10.0,10.0,10.0,450.0,1
+t,moderate,t,1,South of Market,37.77836,-12.24076,Apartment,Private room,3,1,1,1,Real Bed,2,41,99.0,10.0,10.0,10.0,10.0,10.0,10.0,200.0,1
+f,flexible,f,1,Outer Sunset,3.77587,-1.22505,House,Private room,1,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,100.0,1
+f,flexible,t,3,Downtown/Civic Center,37.78947,-12.24103,Apartment,Private room,1,1,0,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,68.0,1
+f,moderate,t,5,Nob Hill,37.79141,-12.24112,Apartment,Private room,2,1,1,1,Real Bed,1,37,94.0,10.0,10.0,10.0,10.0,10.0,9.0,129.0,1
+f,strict_14_with_grace_period,t,51,Financial District,37.79772,-12.23988,Apartment,Entire home/apt,4,1,0,2,Real Bed,31,2,100.0,10.0,9.0,10.0,10.0,10.0,10.0,200.0,1
+t,moderate,f,1,Bernal Heights,3.7745699999999998,-12.24156,House,Private room,2,1,1,1,Real Bed,1,23,97.0,10.0,9.0,10.0,10.0,10.0,9.0,89.0,1
+t,flexible,f,2,Castro/Upper Market,37.756879999999995,-12.24421,Apartment,Private room,1,1,1,1,Real Bed,30,1,60.0,2.0,2.0,2.0,2.0,8.0,8.0,61.0,0
+f,strict_14_with_grace_period,f,64,Downtown/Civic Center,37.790009999999995,-12.24089,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,114.0,1
+f,moderate,f,4,Mission,37.76148,-12.24117,Townhouse,Entire home/apt,4,2,2,3,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,270.0,1
+f,strict_14_with_grace_period,t,2,Pacific Heights,37.79002,-12.244589999999999,Apartment,Entire home/apt,4,1,1,2,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,160.0,1
+f,moderate,f,3,Potrero Hill,3.77615,-12.24054,Apartment,Private room,1,1,1,1,Real Bed,3,14,98.0,10.0,10.0,10.0,10.0,10.0,10.0,99.0,1
+f,strict_14_with_grace_period,f,1,Western Addition,37.77163,-12.24357,Condominium,Entire home/apt,4,1,2,2,Real Bed,5,9,100.0,10.0,10.0,10.0,10.0,10.0,9.0,200.0,1
+f,strict_14_with_grace_period,f,2,Outer Richmond,37.77955,-12.24841,Apartment,Entire home/apt,5,1,2,3,Real Bed,5,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,325.0,1
+f,moderate,f,1,South of Market,37.778929999999995,-12.24056,Condominium,Entire home/apt,2,1,1,1,Real Bed,2,16,98.0,10.0,10.0,10.0,10.0,9.0,9.0,300.0,1
+t,moderate,f,1,Twin Peaks,37.75392,-12.24507,House,Private room,3,1,2,1,Real Bed,1,19,100.0,10.0,10.0,10.0,10.0,10.0,9.0,155.0,1
+t,moderate,t,1,Outer Sunset,37.75789,-12.25066,Guest suite,Entire home/apt,2,1,0,1,Real Bed,2,45,97.0,10.0,10.0,10.0,10.0,10.0,9.0,150.0,1
+f,strict_14_with_grace_period,f,1,Nob Hill,37.79271,-12.24108,Condominium,Entire home/apt,6,2,3,4,Real Bed,3,1,98.0,10.0,10.0,10.0,10.0,10.0,10.0,1309.0,1
+t,moderate,t,2,Inner Sunset,37.75951,-12.24738,Guest suite,Private room,2,1,1,1,Real Bed,1,22,99.0,10.0,10.0,10.0,10.0,10.0,9.0,80.0,1
+f,strict_14_with_grace_period,f,11,Downtown/Civic Center,37.788109999999996,-12.24116,Aparthotel,Private room,1,1,0,1,Real Bed,32,1,80.0,10.0,10.0,10.0,10.0,10.0,10.0,145.0,1
+t,moderate,f,1,Potrero Hill,37.754490000000004,-12.24005,Apartment,Entire home/apt,4,1,1,2,Real Bed,2,21,98.0,10.0,10.0,10.0,10.0,10.0,10.0,249.0,1
+t,moderate,t,1,Excelsior,37.72983,-1.22415,Apartment,Entire home/apt,5,1,2,3,Real Bed,1,53,100.0,10.0,10.0,10.0,10.0,9.0,10.0,149.0,1
+f,flexible,t,1,South of Market,37.77345,-12.24121,Guest suite,Entire home/apt,6,1,2,3,Real Bed,1,28,96.0,10.0,10.0,10.0,10.0,9.0,9.0,280.0,1
+t,moderate,f,852,Nob Hill,37.79198,-12.24123,Apartment,Entire home/apt,6,3,3,3,Real Bed,30,1,100.0,10.0,10.0,8.0,10.0,10.0,10.0,270.0,1
+f,moderate,f,2,Bayview,37.730740000000004,-12.23862,House,Private room,4,1,2,2,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,152.0,1
+f,strict_14_with_grace_period,f,7,Downtown/Civic Center,37.78522,-12.24164,Apartment,Entire home/apt,3,1,0,2,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,85.0,1
+t,flexible,f,1,South of Market,37.77452,-12.24197,Apartment,Entire home/apt,4,2,2,2,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,215.0,1
+f,strict_14_with_grace_period,t,7,Downtown/Civic Center,37.78456,-12.24178,Apartment,Entire home/apt,3,1,0,2,Real Bed,30,1,60.0,2.0,4.0,10.0,10.0,2.0,4.0,85.0,0
+f,flexible,f,1,Inner Richmond,37.77581,-12.24734,House,Private room,2,1,1,1,Real Bed,2,17,100.0,10.0,10.0,10.0,10.0,10.0,10.0,60.0,1
+t,moderate,f,1,Bernal Heights,37.744279999999996,-12.24122,Townhouse,Private room,2,1,1,1,Real Bed,2,29,99.0,10.0,10.0,10.0,10.0,10.0,10.0,89.0,1
+f,flexible,t,1,South of Market,3.77776,-12.24145,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,125.0,1
+f,flexible,f,1,Inner Richmond,3.7778699999999996,-12.24554,House,Entire home/apt,4,2,2,2,Real Bed,3,6,100.0,10.0,10.0,10.0,10.0,10.0,10.0,325.0,1
+f,strict_14_with_grace_period,f,10,Outer Sunset,37.76341,-12.24789,Apartment,Private room,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,60.0,1
+t,strict_14_with_grace_period,f,1,Western Addition,37.77233,-12.243089999999999,House,Entire home/apt,2,1,1,1,Real Bed,5,3,100.0,10.0,10.0,10.0,10.0,10.0,9.0,250.0,1
+f,strict_14_with_grace_period,f,1,Mission,37.764520000000005,-12.24122,Loft,Entire home/apt,4,1,1,2,Real Bed,30,1,80.0,10.0,10.0,10.0,10.0,10.0,10.0,200.0,1
+t,moderate,f,3,Outer Sunset,37.761359999999996,-12.24921,House,Private room,1,2,1,1,Real Bed,1,27,99.0,10.0,10.0,10.0,10.0,10.0,10.0,62.0,1
+t,strict_14_with_grace_period,f,1,Bayview,37.73077,-12.23997,House,Private room,1,1,1,1,Real Bed,30,2,100.0,10.0,10.0,10.0,10.0,10.0,10.0,48.0,1
+f,flexible,f,1,Mission,37.762840000000004,-12.24253,Condominium,Entire home/apt,6,1,3,3,Real Bed,2,4,100.0,10.0,10.0,10.0,10.0,10.0,8.0,750.0,1
+f,flexible,f,1,Pacific Heights,37.79468,-12.24361,Apartment,Entire home/apt,1,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,99.0,1
+f,strict_14_with_grace_period,t,41,Downtown/Civic Center,37.79009,-12.240730000000001,Serviced apartment,Entire home/apt,2,1,0,1,Real Bed,2,7,100.0,10.0,10.0,10.0,10.0,10.0,10.0,95.0,1
+t,moderate,f,1,Mission,37.748470000000005,-12.24237,Apartment,Entire home/apt,3,1,1,2,Real Bed,2,22,100.0,10.0,10.0,10.0,10.0,10.0,10.0,129.0,1
+t,strict_14_with_grace_period,f,200,Downtown/Civic Center,37.787890000000004,-1.22413,Condominium,Entire home/apt,4,1,1,2,Real Bed,3,11,98.0,10.0,10.0,10.0,10.0,9.0,10.0,229.0,1
+t,moderate,f,1,Outer Mission,37.73287,-12.24377,Guest suite,Entire home/apt,2,1,1,1,Real Bed,2,7,97.0,10.0,10.0,10.0,10.0,9.0,10.0,85.0,1
+t,moderate,t,1,Mission,37.75186,-12.24033,Apartment,Private room,2,1,1,1,Real Bed,30,11,98.0,10.0,10.0,10.0,10.0,9.0,10.0,131.0,1
+f,strict_14_with_grace_period,t,4,South of Market,37.77604,-12.24082,Apartment,Entire home/apt,2,1,2,2,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,140.0,1
+t,flexible,t,3,Haight Ashbury,37.77605,-12.24398,Apartment,Private room,1,1,1,1,Real Bed,2,6,97.0,10.0,10.0,10.0,10.0,10.0,9.0,145.0,1
+t,strict_14_with_grace_period,f,3,Noe Valley,37.753679999999996,-12.24272,Condominium,Private room,3,1,1,3,Real Bed,1,14,97.0,10.0,10.0,10.0,10.0,10.0,9.0,145.0,1
+f,flexible,t,439,South of Market,37.77557,-12.23898,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,281.0,1
+f,flexible,t,2,Financial District,37.79647,-12.23974,Apartment,Entire home/apt,2,1,0,1,Real Bed,31,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,280.0,1
+t,strict_14_with_grace_period,f,200,Downtown/Civic Center,37.789559999999994,-12.24117,Condominium,Entire home/apt,4,1,1,2,Real Bed,3,4,95.0,10.0,10.0,10.0,10.0,10.0,10.0,229.0,1
+f,flexible,f,4,South of Market,37.77635,-12.24105,Loft,Private room,2,1,1,1,Real Bed,2,13,97.0,10.0,10.0,10.0,10.0,9.0,9.0,149.0,1
+f,moderate,f,2,Mission,37.76429,-12.242189999999999,House,Private room,2,1,1,1,Real Bed,4,1,100.0,8.0,10.0,10.0,10.0,10.0,8.0,350.0,1
+t,strict_14_with_grace_period,f,200,Downtown/Civic Center,37.78865,-12.24116,Condominium,Entire home/apt,4,1,1,2,Real Bed,3,3,100.0,10.0,10.0,10.0,10.0,10.0,10.0,229.0,1
+f,flexible,f,3,Bayview,37.732929999999996,-12.23928,Condominium,Private room,2,1,1,1,Real Bed,1,2,100.0,10.0,10.0,10.0,10.0,10.0,10.0,150.0,1
+t,moderate,f,852,Western Addition,37.77172,-12.24238,Apartment,Entire home/apt,4,2,2,2,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,225.0,1
+f,flexible,t,2,Marina,3.78015,-12.24417,House,Private room,2,1,1,1,Real Bed,1,4,100.0,10.0,10.0,10.0,10.0,10.0,10.0,275.0,1
+f,flexible,f,1,Pacific Heights,37.79125,-12.242469999999999,House,Private room,2,1,1,1,Real Bed,1,7,100.0,10.0,10.0,10.0,10.0,10.0,9.0,150.0,1
+f,strict_14_with_grace_period,t,5,Ocean View,37.72359,-12.24574,House,Private room,2,2,1,1,Real Bed,1,9,91.0,9.0,9.0,10.0,10.0,10.0,9.0,49.0,1
+f,moderate,t,2,South of Market,37.77787,-12.241539999999999,Apartment,Entire home/apt,2,1,1,2,Real Bed,1,6,83.0,9.0,8.0,8.0,9.0,10.0,8.0,119.0,0
+f,flexible,t,5,Marina,37.804809999999996,-12.244589999999999,Villa,Private room,2,1,1,1,Real Bed,1,7,100.0,10.0,10.0,10.0,10.0,10.0,10.0,200.0,1
+f,moderate,t,5,Marina,37.804959999999994,-12.24439,Villa,Private room,2,1,1,1,Real Bed,1,2,100.0,10.0,10.0,10.0,10.0,10.0,10.0,280.0,1
+t,flexible,f,2,Potrero Hill,37.76343,-12.23975,Guest suite,Entire home/apt,4,1,2,2,Real Bed,3,4,100.0,10.0,10.0,10.0,10.0,10.0,10.0,350.0,1
+f,flexible,t,23,Noe Valley,37.75416,-12.24281,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,175.0,1
+f,flexible,t,1,Mission,37.76722,-12.24216,Apartment,Entire home/apt,3,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,106.0,1
+t,moderate,t,1,Pacific Heights,37.79582,-1.22433,Guest suite,Entire home/apt,6,2,3,3,Real Bed,1,19,100.0,10.0,10.0,10.0,10.0,10.0,9.0,600.0,1
+f,flexible,t,2,Ocean View,37.71247,-12.24589,House,Private room,1,1,1,1,Real Bed,30,1,40.0,4.0,4.0,10.0,10.0,6.0,4.0,38.0,0
+f,flexible,t,1,South of Market,37.786840000000005,-12.23925,Serviced apartment,Private room,1,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,320.0,1
+f,flexible,t,3,Ocean View,37.71862,-12.24493,House,Private room,3,2,1,1,Real Bed,30,13,91.0,10.0,10.0,10.0,10.0,9.0,9.0,59.0,1
+f,moderate,t,1,Marina,37.79862,-12.244539999999999,Condominium,Entire home/apt,4,2,2,2,Real Bed,31,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,450.0,1
+t,moderate,f,3,Noe Valley,37.75056,-12.24431,Condominium,Private room,2,2,1,1,Real Bed,1,6,100.0,10.0,10.0,10.0,10.0,10.0,10.0,159.0,1
+f,moderate,f,1,Mission,37.75913,-12.24189,Apartment,Private room,2,1,1,1,Real Bed,2,7,100.0,10.0,10.0,10.0,10.0,10.0,10.0,99.0,1
+f,flexible,t,439,South of Market,37.777809999999995,-1.22403,Apartment,Entire home/apt,4,2,2,2,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,293.0,1
+f,strict_14_with_grace_period,t,5,Nob Hill,37.790490000000005,-12.24131,Aparthotel,Private room,2,1,1,2,Real Bed,1,24,87.0,9.0,9.0,9.0,10.0,9.0,9.0,99.0,1
+f,strict_14_with_grace_period,t,1,Nob Hill,37.790929999999996,-12.24136,Condominium,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,175.0,1
+t,moderate,f,852,Downtown/Civic Center,37.78759,-1.22417,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,151.0,1
+f,flexible,t,2,Potrero Hill,3.77523,-1.22402,House,Entire home/apt,8,1,2,1,Real Bed,1,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,650.0,1
+f,flexible,t,4,Ocean View,37.724920000000004,-12.247119999999999,House,Private room,2,1,1,1,Real Bed,5,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,140.0,1
+t,strict_14_with_grace_period,t,2,South of Market,37.77412,-12.23933,Apartment,Entire home/apt,3,1,1,2,Real Bed,2,21,99.0,10.0,10.0,10.0,10.0,10.0,10.0,180.0,1
+t,moderate,t,6,Castro/Upper Market,37.75913,-12.24286,Guest suite,Entire home/apt,2,1,0,1,Real Bed,2,6,97.0,10.0,10.0,10.0,10.0,10.0,10.0,199.0,1
+f,strict_14_with_grace_period,f,2,Western Addition,37.77753,-12.24324,Apartment,Private room,1,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,53.0,1
+f,strict_14_with_grace_period,f,64,Nob Hill,37.79571,-12.24113,Apartment,Entire home/apt,4,1,2,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,135.0,1
+f,strict_14_with_grace_period,f,14,Parkside,37.74292,-12.249089999999999,Guest suite,Entire home/apt,2,1,0,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,57.0,1
+f,flexible,t,439,South of Market,37.77527,-12.239130000000001,Apartment,Entire home/apt,4,2,2,2,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,360.0,1
+t,strict_14_with_grace_period,f,4,Mission,3.77486,-12.24094,Guest suite,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,200.0,1
+f,strict_14_with_grace_period,t,1,Bernal Heights,37.739340000000006,-12.241610000000001,Guest suite,Entire home/apt,2,1,0,1,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,104.0,1
+f,strict_14_with_grace_period,t,24,Financial District,37.78968,-12.24061,Boutique hotel,Private room,2,1,0,1,Real Bed,5,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,200.0,1
+f,strict_14_with_grace_period,f,2,Western Addition,37.77561,-12.243139999999999,Apartment,Private room,1,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,44.0,1
+t,strict,f,852,Mission,37.77093,-12.242410000000001,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,159.0,1
+t,strict_14_with_grace_period,f,9,Inner Richmond,37.780879999999996,-12.24559,Condominium,Entire home/apt,4,1,3,3,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,149.0,1
+f,strict_14_with_grace_period,t,165,Western Addition,37.77025,-12.24275,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,164.0,1
+f,strict_14_with_grace_period,t,165,Western Addition,37.78447,-12.24354,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,150.0,1
+f,strict_14_with_grace_period,t,165,South of Market,37.77731,-12.241480000000001,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,147.0,1
+f,strict_14_with_grace_period,t,165,South of Market,37.778079999999996,-12.24146,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,147.0,1
+f,strict_14_with_grace_period,t,165,South of Market,37.773759999999996,-1.2239200000000001,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,177.0,1
+f,strict_14_with_grace_period,t,165,South of Market,37.77753,-12.24151,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,147.0,1
+f,strict_14_with_grace_period,t,165,Western Addition,37.78593,-12.24364,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,150.0,1
+f,strict_14_with_grace_period,t,165,Marina,37.79996,-12.242519999999999,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,164.0,1
+f,strict_14_with_grace_period,t,165,South of Market,37.78687,-12.23916,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,177.0,1
+f,strict_14_with_grace_period,t,165,South of Market,37.77637,-12.24156,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,150.0,1
+f,strict_14_with_grace_period,t,165,Mission,37.76433,-12.24169,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,164.0,1
+f,strict_14_with_grace_period,t,165,South of Market,37.77362,-12.23977,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,150.0,1
+t,strict,f,852,Western Addition,37.78568,-12.244530000000001,Condominium,Entire home/apt,2,1,1,1,Real Bed,30,1,60.0,2.0,4.0,2.0,10.0,4.0,4.0,139.0,0
+f,flexible,t,12,Excelsior,37.71709,-12.24323,Townhouse,Private room,2,3,1,1,Real Bed,1,9,100.0,10.0,10.0,10.0,10.0,9.0,10.0,80.0,1
+t,strict_14_with_grace_period,f,2,Mission,37.75858,-12.24163,Apartment,Entire home/apt,2,1,1,1,Real Bed,7,3,80.0,9.0,9.0,8.0,7.0,9.0,8.0,105.0,0
+f,flexible,f,5,Haight Ashbury,37.76782,-12.24489,House,Shared room,3,3,1,1,Real Bed,31,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,33.0,1
+f,flexible,t,439,Western Addition,3.77864,-12.24365,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,196.0,1
+f,flexible,t,439,South of Market,37.77333,-12.23915,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,262.0,1
+f,flexible,t,439,Downtown/Civic Center,37.786609999999996,-12.24145,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,163.0,1
+f,flexible,t,439,Noe Valley,37.746520000000004,-0.0012243,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,225.0,1
+f,flexible,t,439,South of Market,37.78355,-12.23905,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,264.0,1
+f,flexible,t,1,Western Addition,37.77768,-12.24233,Apartment,Private room,2,1,1,1,Real Bed,1,10,100.0,10.0,10.0,10.0,10.0,10.0,10.0,130.0,1
+f,flexible,t,36,Downtown/Civic Center,37.78727,-12.24164,Apartment,Private room,1,2,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,50.0,1
+t,strict,f,852,South of Market,3.7774199999999998,-12.24131,Apartment,Entire home/apt,2,1,0,0,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,127.0,1
+f,flexible,t,14,Outer Richmond,3.77828,-12.24877,House,Entire home/apt,4,1,2,4,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,8.0,180.0,1
+t,flexible,f,13,Bayview,37.71965,-12.239460000000001,House,Private room,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,100.0,1
+t,flexible,f,2,Inner Richmond,37.78396,-12.24625,Apartment,Entire home/apt,4,1,1,2,Real Bed,2,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,150.0,1
+f,flexible,f,1,Western Addition,37.77624,-12.24233,House,Entire home/apt,4,2,1,2,Real Bed,30,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,163.0,1
+f,strict_14_with_grace_period,t,7,Russian Hill,37.80044,-12.24116,Villa,Shared room,1,2,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,33.0,1
+t,strict_14_with_grace_period,t,10,Western Addition,37.78829,-12.24308,Apartment,Entire home/apt,8,2,3,4,Real Bed,2,1,100.0,10.0,8.0,10.0,10.0,10.0,10.0,450.0,1
+t,strict_14_with_grace_period,t,5,Bayview,37.73845,-12.23995,House,Private room,2,1,1,2,Real Bed,1,10,98.0,10.0,10.0,10.0,10.0,10.0,10.0,70.0,1
+f,strict_14_with_grace_period,f,10,Outer Sunset,37.76482,-12.247760000000001,Apartment,Private room,1,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,48.0,1
+t,moderate,t,35,Haight Ashbury,3.7768900000000003,-12.24488,Hostel,Private room,2,1,1,1,Real Bed,1,14,96.0,10.0,9.0,9.0,10.0,10.0,10.0,100.0,1
+t,strict_14_with_grace_period,f,200,Downtown/Civic Center,37.788340000000005,-12.24135,Condominium,Entire home/apt,4,1,1,2,Real Bed,3,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,229.0,1
+f,strict_14_with_grace_period,t,15,South of Market,37.78414,-12.239130000000001,Apartment,Entire home/apt,2,1,0,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,100.0,1
+t,strict_14_with_grace_period,f,10,Downtown/Civic Center,37.77959,-12.24215,Apartment,Entire home/apt,2,1,1,1,Real Bed,2,5,96.0,10.0,10.0,10.0,10.0,10.0,10.0,245.0,1
+f,flexible,t,55,Downtown/Civic Center,3.77861,-12.24103,Hostel,Shared room,1,1,1,1,Real Bed,32,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,27.0,1
+f,strict_14_with_grace_period,f,2,Russian Hill,37.80489,-12.24214,Apartment,Entire home/apt,4,1,2,2,Real Bed,3,5,96.0,10.0,10.0,10.0,10.0,10.0,9.0,400.0,1
+f,strict_14_with_grace_period,t,41,Downtown/Civic Center,37.78705,-12.24112,Serviced apartment,Entire home/apt,4,1,0,1,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,115.0,1
+f,moderate,f,2,Castro/Upper Market,37.76039,-12.243269999999999,Condominium,Entire home/apt,2,1,2,2,Real Bed,5,2,90.0,9.0,9.0,9.0,9.0,9.0,7.0,350.0,0
+f,strict_14_with_grace_period,f,1,Western Addition,37.778859999999995,-1.22433,Condominium,Entire home/apt,2,1,1,1,Real Bed,180,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,200.0,1
+f,moderate,t,3,Outer Sunset,37.757259999999995,-12.24812,Guest suite,Entire home/apt,7,2,3,5,Real Bed,1,5,96.0,10.0,10.0,10.0,10.0,10.0,10.0,215.0,1
+f,flexible,f,3,Western Addition,37.773559999999996,-1.22433,Apartment,Private room,2,1,1,1,Real Bed,2,14,99.0,10.0,10.0,10.0,10.0,10.0,10.0,95.0,1
+f,strict_14_with_grace_period,t,8,Mission,37.75101,-12.24066,House,Private room,3,1,1,2,Real Bed,1,5,76.0,8.0,8.0,10.0,9.0,9.0,8.0,69.0,0
+f,strict_14_with_grace_period,t,8,Mission,37.75143,-12.24081,House,Private room,2,1,1,1,Real Bed,1,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,59.0,1
+f,flexible,f,1,Pacific Heights,37.78777,-12.24457,Apartment,Private room,1,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,57.0,1
+f,flexible,t,3,Haight Ashbury,37.77418,-12.24435,Apartment,Private room,2,1,1,1,Real Bed,1,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,140.0,1
+f,strict_14_with_grace_period,f,64,Nob Hill,37.79056,-12.24094,Apartment,Entire home/apt,3,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,136.0,1
+f,strict_14_with_grace_period,t,1,South of Market,37.782059999999994,-12.24041,Loft,Entire home/apt,15,1,1,1,Couch,1,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,900.0,1
+t,moderate,f,4,Visitacion Valley,37.72201,-12.24042,House,Entire home/apt,7,2,3,4,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,325.0,1
+f,flexible,t,10,Downtown/Civic Center,37.77782,-1.22419,Apartment,Private room,1,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,71.0,1
+f,flexible,t,1,Outer Mission,37.71567,-12.244819999999999,House,Private room,3,1,2,2,Real Bed,1,3,100.0,10.0,10.0,10.0,10.0,10.0,10.0,50.0,1
+f,moderate,t,1,Bayview,3.7731199999999996,-12.23911,House,Private room,2,1,1,1,Real Bed,1,10,94.0,10.0,10.0,10.0,10.0,10.0,9.0,61.0,1
+f,flexible,f,3,Mission,37.75215,-12.24061,Apartment,Private room,2,1,1,1,Real Bed,1,10,98.0,10.0,10.0,10.0,10.0,10.0,10.0,110.0,1
+t,moderate,f,2,Western Addition,37.78435,-12.24428,Apartment,Entire home/apt,4,1,2,2,Real Bed,2,4,100.0,10.0,10.0,10.0,10.0,10.0,10.0,278.0,1
+f,flexible,t,439,Downtown/Civic Center,37.78823,-12.24173,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,219.0,1
+f,strict_14_with_grace_period,f,3,Excelsior,37.729729999999996,-12.24262,Apartment,Private room,2,1,1,1,Real Bed,7,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,175.0,1
+f,super_strict_30,t,18,North Beach,37.80509,-12.24076,Apartment,Entire home/apt,4,2,2,3,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,339.0,1
+f,flexible,f,3,Mission,37.75209,-12.24049,Apartment,Private room,2,1,1,1,Real Bed,1,7,100.0,10.0,10.0,10.0,10.0,10.0,10.0,110.0,1
+f,strict_14_with_grace_period,t,1,Western Addition,3.7784400000000002,-12.24429,House,Entire home/apt,5,1,2,3,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,165.0,1
+f,flexible,t,1,Nob Hill,37.79189,-12.241539999999999,Apartment,Entire home/apt,2,1,2,3,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,375.0,1
+f,flexible,f,2,South of Market,37.778859999999995,-12.24032,Condominium,Private room,2,1,1,1,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,500.0,1
+f,moderate,f,1,Inner Richmond,37.77527,-12.246960000000001,Guest suite,Entire home/apt,2,1,1,1,Real Bed,2,4,100.0,10.0,10.0,10.0,10.0,10.0,10.0,140.0,1
+f,strict_14_with_grace_period,f,3,South of Market,37.77174,-12.242180000000001,Condominium,Private room,1,2,1,1,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,75.0,1
+f,moderate,f,3,Excelsior,37.73134,-12.24258,House,Private room,2,1,1,1,Real Bed,1,5,100.0,10.0,10.0,10.0,10.0,10.0,10.0,100.0,1
+f,flexible,f,1,Western Addition,37.772240000000004,-12.24286,Condominium,Private room,2,1,1,1,Real Bed,1,1,100.0,10.0,10.0,10.0,10.0,10.0,10.0,120.0,1
+t,strict,f,852,Mission,37.75692,-12.24083,Condominium,Entire home/apt,4,1,2,2,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,217.0,1
+f,strict_14_with_grace_period,t,1,Seacliff,37.78883,-12.24864,House,Entire home/apt,10,3,1,4,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,650.0,1
+t,strict,f,852,Inner Richmond,37.78306,-12.247580000000001,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,132.0,1
+t,flexible,f,5,Excelsior,3.7725400000000002,-12.24088,House,Private room,6,1,1,3,Real Bed,4,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,107.0,1
+f,flexible,t,439,South of Market,37.77813,-12.24125,Apartment,Entire home/apt,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,229.0,1
+t,moderate,f,41,South of Market,37.788579999999996,-12.23902,Condominium,Entire home/apt,2,1,0,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,138.0,1
+f,flexible,t,1,Crocker Amazon,37.70872,-12.24403,House,Private room,1,1,1,1,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,125.0,1
+f,strict_14_with_grace_period,f,3,Haight Ashbury,37.76077,-12.244819999999999,House,Private room,2,1,1,1,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,185.0,1
+f,moderate,f,2,Castro/Upper Market,37.75958,-12.24313,Condominium,Private room,2,1,1,1,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,189.0,1
+f,strict_14_with_grace_period,f,67,Downtown/Civic Center,37.78866,-12.24109,Hotel,Private room,4,1,0,2,Real Bed,1,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,199.0,1
+f,flexible,t,2,Western Addition,37.781490000000005,-1.22431,House,Private room,2,1,1,1,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,105.0,1
+f,strict_14_with_grace_period,t,165,Western Addition,3.7778699999999996,-12.24325,Boutique hotel,Private room,4,1,1,2,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,237.0,1
+f,strict_14_with_grace_period,t,165,Western Addition,37.77657,-12.24325,Boutique hotel,Private room,2,1,1,1,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,204.0,1
+f,flexible,t,8,Downtown/Civic Center,37.788090000000004,-12.24152,Apartment,Private room,1,2,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,50.0,1
+f,flexible,t,4,West of Twin Peaks,37.741009999999996,-12.24647,Guest suite,Private room,2,1,1,1,Real Bed,1,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,120.0,1
+f,flexible,t,1,Financial District,37.79043,-12.24024,Condominium,Private room,2,1,1,1,Real Bed,1,1,98.0,10.0,10.0,10.0,10.0,10.0,10.0,193.0,1
+f,strict_14_with_grace_period,f,1,Western Addition,37.77061,-12.24312,Apartment,Private room,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,76.0,1
+f,strict_14_with_grace_period,t,1,Outer Richmond,37.77859,-12.249239999999999,Apartment,Private room,8,2,3,4,Real Bed,1,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,170.0,1
+t,flexible,f,1,Inner Sunset,37.76416,-12.24592,Guest suite,Private room,2,1,1,1,Real Bed,3,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,195.0,1
+f,strict_14_with_grace_period,t,6,Ocean View,37.72059,-12.24499,House,Private room,2,1,1,1,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,46.0,1
+f,moderate,f,4,Marina,37.80359,-12.24442,House,Entire home/apt,10,3,4,6,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,300.0,1
+f,flexible,f,5,Western Addition,37.78008,-12.24417,House,Entire home/apt,3,1,3,3,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,207.0,1
+f,flexible,t,18,Noe Valley,37.74884,-12.24283,House,Entire home/apt,3,1,1,2,Real Bed,30,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,163.0,1
+t,flexible,t,10,Western Addition,37.78855,-12.24311,Apartment,Entire home/apt,4,1,1,1,Real Bed,2,0,98.0,10.0,10.0,10.0,10.0,10.0,10.0,249.0,1
